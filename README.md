@@ -90,22 +90,6 @@ https://hin.isherv.in
 https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt
 ```
 
-```
-https://raw.githubusercontent.com/Final-Verdict/sharefile/main/config.json
-```
-
-```
-https://sub.giga-downloader.com/hiddify.txt
-```
-
-```
-https://uploadserver.sialkcable.ir/v2ray/config.txt
-```
-
-```
-https://41f8c935.kakq-panel3.pages.dev/sub/89b3cbba-e6ac-485a-9481-976a0415eab9#BPB-Normal
-```
-
 </div>
 
 </div>
