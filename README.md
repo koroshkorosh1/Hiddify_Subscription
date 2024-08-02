@@ -76,6 +76,8 @@
     
 To get started with HiN VPN, simply follow the subscription links provided below. This link will grant you access to the latest VPN configurations, allowing you to secure your internet connection and browse the web with peace of mind.
 
+https://itsyebekhe.github.io/HiN-VPN/
+
 ```
 https://raw.githubusercontent.com/ippscan/v2ray-configs/main/Hiddify-configs
 ```
