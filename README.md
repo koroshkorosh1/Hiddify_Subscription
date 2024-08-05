@@ -214,6 +214,10 @@ vpn://eyJjb25maWdfdmVyc2lvbiI6IDEuMCwgImFwaV9lbmRwb2ludCI6ICJodHRwczovL2FiYjZkYz
 ```
 
 
+```
+vpn://eyJjb25maWdfdmVyc2lvbiI6IDEuMCwgImFwaV9lbmRwb2ludCI6ICJodHRwczovL2FiYjZkYzAxZWExODJmOWJkLmF3c2dsb2JhbGFjY2VsZXJhdG9yLmNvbS9hcGkvdjEvcmVxdWVzdC9hd2cvIiwgInByb3RvY29sIjogImF3ZyIsICJuYW1lIjogIkFtbmV6aWFGcmVlIElSIiwgImRlc2NyaXB0aW9uIjogIkFtbmV6aWFGcmVlIGZvciBJcmFuIiwgImFwaV9rZXkiOiAiRnRGcVFIdzMuUm81NVUydXNRVlAzcEpJb3Q0OGR1NE9CU0JUemlQYVAifQ==
+```
+
 </div>
 
 
