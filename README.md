@@ -79,15 +79,11 @@ To get started with HiN VPN, simply follow the subscription links provided below
 https://itsyebekhe.github.io/HiN-VPN/
 
 ```
-https://raw.githubusercontent.com/ippscan/v2ray-configs/main/Hiddify-configs
+https://emi.opetajoin.cfd
 ```
 
 ```
 https://hin.isherv.in
-```
-
-```
-https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt
 ```
 
 </div>
