@@ -79,7 +79,7 @@ To get started with HiN VPN, simply follow the subscription links provided below
 https://itsyebekhe.github.io/HiN-VPN/
 
 ```
-https://emi.opetajoin.cfd
+https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/hiddify/mix
 ```
 
 ```
