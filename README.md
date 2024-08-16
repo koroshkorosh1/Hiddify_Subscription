@@ -79,6 +79,10 @@ To get started with HiN VPN, simply follow the subscription links provided below
 https://itsyebekhe.github.io/HiN-VPN/
 
 ```
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mci/sub_1.txt
+```
+
+```
 https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/hiddify/mix
 ```
 
