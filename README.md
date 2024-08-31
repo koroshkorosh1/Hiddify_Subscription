@@ -79,7 +79,7 @@ To get started with HiN VPN, simply follow the subscription links provided below
 https://itsyebekhe.github.io/HiN-VPN/
 
 ```
-https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/V2RAY_SUB.txt
+https://raw.githubusercontent.com/ysmoradi/v/main/1
 ```
 
 ```
