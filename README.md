@@ -79,6 +79,10 @@ To get started with HiN VPN, simply follow the subscription links provided below
 https://itsyebekhe.github.io/HiN-VPN/
 
 ```
+https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/main/config.txt
+```
+
+```
 https://raw.githubusercontent.com/ysmoradi/v/main/1
 ```
 
