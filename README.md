@@ -79,6 +79,10 @@ To get started with HiN VPN, simply follow the subscription links provided below
 https://itsyebekhe.github.io/HiN-VPN/
 
 ```
+https://links.achaemenidempireofpersia.uk/cR3Q5X#IrancpinetSub1
+```
+
+```
 https://igdux.top/~FREE2CONFIG,T,H
 ```
 
