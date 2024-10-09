@@ -86,19 +86,6 @@ https://links.achaemenidempireofpersia.uk/cR3Q5X#IrancpinetSub1
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/VIP.txt
 ```
 
-```
-https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/main/config.txt
-```
-
-```
-https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/V2RAY_SUB.txt
-```
-
-```
-https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/hiddify/mix
-```
-
-
 </div>
 
 <div align="left">
