@@ -83,7 +83,7 @@ https://links.achaemenidempireofpersia.uk/cR3Q5X#IrancpinetSub1
 ```
 
 ```
-https://igdux.top/~FREE2CONFIG,T,H
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/VIP.txt
 ```
 
 ```
