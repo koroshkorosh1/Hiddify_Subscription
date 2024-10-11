@@ -86,6 +86,10 @@ https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/gcore
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/VIP.txt
 ```
 
+```
+https://igdux.top/~Sssssssub@tv2rayrr#@Hidd1fy
+```
+
 </div>
 
 <div align="left">
