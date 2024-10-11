@@ -90,6 +90,10 @@ https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/VIP
 https://igdux.top/~Sssssssub@tv2rayrr#@Hidd1fy
 ```
 
+```
+https://api.nitrosub.site/sub/gofy.php
+```
+
 </div>
 
 <div align="left">
