@@ -94,6 +94,10 @@ https://igdux.top/~Sssssssub@tv2rayrr#@Hidd1fy
 https://api.nitrosub.site/sub/gofy.php
 ```
 
+```
+https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vless.html
+```
+
 </div>
 
 <div align="left">
