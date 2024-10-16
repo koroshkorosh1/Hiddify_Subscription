@@ -79,7 +79,7 @@ To get started with HiN VPN, simply follow the subscription links provided below
 https://itsyebekhe.github.io/HiN-VPN/
 
 ```
-https://raw.githubusercontent.com/amin4139/share_file/refs/heads/main/Fastly_ConfigTestHiddifyXray
+https://sub.moryvpnbot.workers.dev/bot/normal
 ```
 
 </div>
