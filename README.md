@@ -1,4 +1,3 @@
-<br>
 
 <div align="left">
     <h1>1. Begzar</h1>
