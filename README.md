@@ -1,14 +1,60 @@
+<br>
+
+<div align="left">
+    <h1>1. Begzar</h1>
+</div>
+
+
+<p dir="ltr" style="font-size: 16px">A multi-platform proxy client based on xray-core universal proxy tool-chain. Begzar offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Begzar is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet.</p>
+
+
+<div align=center>
+<img width=80% alt="English Demo" src="https://pbs.twimg.com/media/GaLIJlGXsAAN9Eb?format=jpg&name=medium">
+
+</div>
+
+🔒 Auto Connect
+🔒 Fast Free Servers
+🔒 Simple & Secure 
+
+<div align=center>
+</div>
+
+###  📥 [Download](https://github.com/Begzar/BegzarApp/releases)
+
+<div align=left>
+<table>
+    <thead align=left>
+        <tr>
+            <th>OS</th>
+            <th>Download</th>
+        </tr>
+    </thead>
+    <tbody align=left>
+        <tr>
+        <td>Android</td>
+            <td>
+                <a href="https://github.com/Begzar/BegzarApp/releases/download/v5.0.0/begzar-v8a-5.0.0.apk"><img src="https://img.shields.io/badge/APK-ARMv8-168039.svg?logo=android"></a><br>
+                <a href="https://github.com/Begzar/BegzarApp/releases/download/v5.0.0/begzar-v7a-5.0.0.apk"><img src="https://img.shields.io/badge/APK-ARMv7-45bf55.svg?logo=android"></a><br>
+            </td>
+        </tr>
+
+    
+</table>
+
+</div>
+
 
 <br>
 
 <div align="left">
-    <h1>1. Hiddify</h1>
+    <h1>2. Hiddify</h1>
 </div>
 
 <p dir="ltr" style="font-size: 16px">A multi-platform proxy client based on <a href="https://github.com/SagerNet/sing-box">Sing-box</a> universal proxy tool-chain. Hiddify offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Hiddify is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet.</p>
 
 <div align=center>
-<img width=90% alt="English Demo" src="https://github.com/hiddify/hiddify-next/assets/125398461/ffe5346d-3404-470f-b5e0-4364e23743d2">
+<img width=80% alt="English Demo" src="https://github.com/hiddify/hiddify-next/assets/125398461/ffe5346d-3404-470f-b5e0-4364e23743d2">
 
 </div>
 
@@ -88,11 +134,11 @@ https://b96ef9ae.trojanfree-76s.pages.dev/auto?sub
 </div>
 
 <div align="left">
-    <h1>2. Karing </h1>
+    <h1>3. Karing </h1>
 </div>
 
 <div align=center>
-<img width=30% alt="English Demo" src="https://raw.githubusercontent.com/KaringX/karing/main/assets/demo/home.png">
+<img width=30% alt="English Demo" src="https://raw.githubusercontent.com/KaringX/karing/main/README_assets/demo/home.png">
 
 </div>
 
@@ -178,7 +224,7 @@ https://hin.isherv.in
 
 
 <div align="left">
-    <h1>3. Amnezia VPN </h1>
+    <h1>4. Amnezia VPN </h1>
 </div>
 
 Amnezia is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server.
@@ -201,7 +247,7 @@ Amnezia is an open-source VPN client, with a key feature that enables you to dep
 <table>
     <thead align=left>
         <tr>
-            <th>Sistema Operacional</th>
+            <th>OS</th>
             <th>Download</th>
         </tr>
     </thead>
@@ -311,7 +357,7 @@ vpn://eyJjb25maWdfdmVyc2lvbiI6IDEuMCwgImFwaV9lbmRwb2ludCI6ICJodHRwczovL2FiYjZkYz
 
 
 <div align="left">
-    <h1>4. Hit-vpn</h1>
+    <h1>5. Hit-vpn</h1>
 </div>
 
 Works without loss of speed. We do not allow our servers to be overloaded. Huge server park in the best data centers of the world.  New protocol with increased data protection and privacy. Protects your privacy on public Wi-Fi spots. The service is installed and managed by you through the Telegram bot.
@@ -375,7 +421,7 @@ MEET THE NEW GENERATION VPN! SECURE TRAFFIC ENCRYPTION TECHNOLOGY WILL MAKE YOU 
 
 
 <div align="left">
-    <h1>5. Oblivion Desktop</h1>
+    <h1>6. Oblivion Desktop</h1>
 </div>
 
 <div align="center">
