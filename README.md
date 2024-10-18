@@ -81,6 +81,9 @@ https://itsyebekhe.github.io/HiN-VPN/
 ```
 https://sub.moryvpnbot.workers.dev/bot/normal
 ```
+```
+https://b96ef9ae.trojanfree-76s.pages.dev/auto?sub
+```
 
 </div>
 
@@ -166,6 +169,8 @@ https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/hiddify/m
 ```
 https://hin.isherv.in
 ```
+
+
 
 </div>
 
