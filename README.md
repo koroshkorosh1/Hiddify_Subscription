@@ -134,6 +134,9 @@ https://b96ef9ae.trojanfree-76s.pages.dev/auto?sub
 https://raw.githubusercontent.com/itsyebekhe/vpnfail/main/subscription/base64
 ```
 
+```
+https://raw.githubusercontent.com/ts-sf/fly/main/v2
+```
 
 
 </div>
