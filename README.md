@@ -138,6 +138,9 @@ https://raw.githubusercontent.com/itsyebekhe/vpnfail/main/subscription/base64
 https://raw.githubusercontent.com/ts-sf/fly/main/v2
 ```
 
+```
+https://free.fnet00.workers.dev/sub
+```
 
 </div>
 
