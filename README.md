@@ -142,6 +142,10 @@ https://raw.githubusercontent.com/ts-sf/fly/main/v2
 https://free.fnet00.workers.dev/sub
 ```
 
+```
+https://raw.githubusercontent.com/freedomnet25500/freesub/refs/heads/main/yousefsegaro
+```
+
 </div>
 
 <div align="left">
