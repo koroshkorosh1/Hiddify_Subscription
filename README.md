@@ -121,11 +121,10 @@
     
 To get started with HiN VPN, simply follow the subscription links provided below. This link will grant you access to the latest VPN configurations, allowing you to secure your internet connection and browse the web with peace of mind.
 
-https://itsyebekhe.github.io/HiN-VPN/
-
 ```
 https://sub.moryvpnbot.workers.dev/bot/normal
 ```
+
 ```
 https://b96ef9ae.trojanfree-76s.pages.dev/auto?sub
 ```
@@ -144,6 +143,10 @@ https://free.fnet00.workers.dev/sub
 
 ```
 https://raw.githubusercontent.com/freedomnet25500/freesub/refs/heads/main/yousefsegaro
+```
+
+```
+https://raw.githubusercontent.com/geek-spot/Free-Config/refs/heads/main/2024-10-04.txt
 ```
 
 </div>
