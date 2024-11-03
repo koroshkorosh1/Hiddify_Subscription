@@ -126,11 +126,7 @@ https://sub.moryvpnbot.workers.dev/bot/normal
 ```
 
 ```
-https://b96ef9ae.trojanfree-76s.pages.dev/auto?sub
-```
-
-```
-https://raw.githubusercontent.com/itsyebekhe/vpnfail/main/subscription/base64
+https://raw.githubusercontent.com/amin4139/share_file/refs/heads/main/Fastly_ConfigTestHiddifyXray
 ```
 
 ```
