@@ -130,23 +130,7 @@ https://sub.moryvpnbot.workers.dev/bot/normal
 ```
 
 ```
-https://raw.githubusercontent.com/amin4139/share_file/refs/heads/main/Fastly_ConfigTestHiddifyXray
-```
-
-```
-https://raw.githubusercontent.com/ts-sf/fly/main/v2
-```
-
-```
-https://free.fnet00.workers.dev/sub
-```
-
-```
-https://raw.githubusercontent.com/freedomnet25500/freesub/refs/heads/main/yousefsegaro
-```
-
-```
-https://raw.githubusercontent.com/geek-spot/Free-Config/refs/heads/main/2024-10-04.txt
+https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/config.txt
 ```
 
 </div>
