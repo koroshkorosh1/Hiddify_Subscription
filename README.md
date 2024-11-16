@@ -133,6 +133,11 @@ https://sub.moryvpnbot.workers.dev/bot/normal
 https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/config.txt
 ```
 
+```
+https://raw.githubusercontent.com/Reza-sal/OK/refs/heads/main/OK.rsae
+```
+
+
 </div>
 
 <div align="left">
