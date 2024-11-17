@@ -137,6 +137,9 @@ https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/
 https://raw.githubusercontent.com/Reza-sal/OK/refs/heads/main/OK.rsae
 ```
 
+```
+https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/Trinity.txt
+```
 
 </div>
 
