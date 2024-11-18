@@ -121,21 +121,8 @@
     
 To get started with HiN VPN, simply follow the subscription links provided below. This link will grant you access to the latest VPN configurations, allowing you to secure your internet connection and browse the web with peace of mind.
 
-
-```
-https://m.freetechir.us.kg/auto?sub
-```
-
 ```
 https://sub.moryvpnbot.workers.dev/bot/normal
-```
-
-```
-https://raw.githubusercontent.com/Reza-sal/OK/refs/heads/main/OK.rsae
-```
-
-```
-https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/Trinity.txt
 ```
 
 ```
