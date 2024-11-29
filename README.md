@@ -126,7 +126,7 @@ https://raw.githubusercontent.com/freedomnet25500/freenom/refs/heads/main/freeno
 ```
 
 ```
-https://raw.githubusercontent.com/amin4139/share_file/refs/heads/main/Fastly_ConfigTestV2rayNG
+https://igdux.top/6SnBGQ8GD2hjz6Td2ecxA5Hr#sorensub,153
 ```
 
 ```
