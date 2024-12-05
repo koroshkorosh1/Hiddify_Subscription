@@ -1,3 +1,5 @@
+hysteria2://KevinZakarian@kevin.serverv.net:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#912
+hysteria2://KevinZakarian@kevin.serverv.net:8443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#913
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@217.182.198.219:8119#1
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@158.51.123.253:5003#2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.2.182:990#3
