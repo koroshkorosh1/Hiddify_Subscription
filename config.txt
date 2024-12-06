@@ -910,3 +910,8 @@ hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&sni=45.76.0.86&obfs=salamander
 hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&obfs=salamander&obfs-password=4b817757#913
 hy2://28f6d888-cbc5-4210-8cd2-b40cf566d9a8@103.136.68.92:3307/?insecure=1&obfs=salamander&obfs-password=ZTg1ZWVjNjAxZmRlNGI5MA%3D%3D#914
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3UGI5djJsZEpkME9oZjJQSWFGbThy@35.91.145.84:22852/#918
+hysteria2://6f2e5d62-9c90-4ae0-a8c8-70602626be45@45.140.169.231:8080?security=tls&insecure=1&sni=www.bing.com#919
+hysteria2://4d99ba12-febb-436c-b2a2-1ff6033aee59@us.tuanzi.site:20701?security=tls&insecure=1#920
+hysteria2://75d720d0-dce2-499e-bd98-6b83528e2889@23.26.34.209:8080?security=tls&insecure=1&sni=www.bing.com#921
+hysteria2://2d95c913-ca42-4f11-b4ab-391b922d0099@hk.tuanzi.site:20701?security=tls&insecure=1#922
+hysteria2://cba80125-8c8c-4c9d-a016-c73b0d02e31f@5.39.252.182:3898?security=tls&obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#923
