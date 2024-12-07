@@ -133,6 +133,10 @@ https://igdux.top/6SnBGQ8GD2hjz6Td2ecxA5Hr#sorensub,153
 https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/config.txt
 ```
 
+```
+https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/hysteria2.txt
+```
+
 </div>
 
 <div align="left">
