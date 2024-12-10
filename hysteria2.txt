@@ -264,3 +264,15 @@ hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@40.233.76.38:30102?security=tls
 hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.178.161:30102?security=tls&insecure=1&sni=us6.wish.ml#942
 hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.164.255:30102?security=tls&insecure=1&sni=us11.wish.ml#943
 hysteria2://1a9df06d-b7c6-44fc-b709-00e675a1d5fe@176.32.33.73:1200?security=tls&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#944
+hy2://18eca628-83f7-42bd-a143-4769353cd06d@194.87.69.42:7660/?insecure=1&obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D#945
+hy2://c19baa7c-3e0c-4c91-81bb-fea0e4a52382@45.140.169.231:8080/?insecure=1&sni=www.bing.com#946
+hy2://18eca628-83f7-42bd-a143-4769353cd06d@192.124.176.87:9781/?insecure=1&obfs=salamander&obfs-password=ZTg1ZWVjNjAxZmRlNGI5MA%3D%3D#947
+hy2://530571fd-9db7-436f-9341-c3d09be3d491@23.26.34.209:8080/?insecure=1&sni=www.bing.com#948
+hy2://b49a4240-f3a9-4785-8496-0d5637ba4d18@176.32.35.198:8307/?insecure=1&obfs=salamander&obfs-password=NDQyMDdkMTEzNDRmMDAxYg%3D%3D#949
+hy2://7ba63eda-efe1-41b9-9231-f66d73ee0d04@sg.bailian.site:443/?mport=20401-20499#950
+hy2://76a50590-502f-4c52-bbb8-71777eae4a96@46.17.44.62:9668/?insecure=1&obfs=salamander&obfs-password=NDY2MDRjODQ5MjhkM2ZkNw%3D%3D#951
+hy2://1ceb687e-8fd1-4a2f-8c0c-cbdfabedc6bc@5.39.252.182:3898/?insecure=1&obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D#952
+hy2://7ba63eda-efe1-41b9-9231-f66d73ee0d04@jp.bailian.site:443/?mport=20401-20499#953
+hy2://7ba63eda-efe1-41b9-9231-f66d73ee0d04@us.bailian.site:443/?mport=20401-20499#954
+hy2://7ba63eda-efe1-41b9-9231-f66d73ee0d04@hk.bailian.site:443/?mport=20401-20499#955
+hy2://c0a9dd45-fd5a-497b-9e3d-0e3017de6895@195.58.49.12:3454/?insecure=1&obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D#956
