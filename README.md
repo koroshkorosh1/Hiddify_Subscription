@@ -122,11 +122,7 @@
 To get started with HiN VPN, simply follow the subscription links provided below. This link will grant you access to the latest VPN configurations, allowing you to secure your internet connection and browse the web with peace of mind.
 
 ```
-https://raw.githubusercontent.com/freedomnet25500/freenom/refs/heads/main/freenoom
-```
-
-```
-https://igdux.top/6SnBGQ8GD2hjz6Td2ecxA5Hr#sorensub,153
+https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/V2RAY_CONFIGS_POOL.txt
 ```
 
 ```
