@@ -130,7 +130,7 @@ https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/
 ```
 
 ```
-https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/hysteria2.txt
+https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/Hysteria.txt
 ```
 
 </div>
