@@ -1,53 +1,5 @@
-
 <div align="left">
-    <h1>1. Begzar</h1>
-</div>
-
-
-<p dir="ltr" style="font-size: 16px">A multi-platform proxy client based on xray-core universal proxy tool-chain. Begzar offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Begzar is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet.</p>
-
-
-<div align=center>
-<img width=80% alt="English Demo" src="https://pbs.twimg.com/media/GaLIJlGXsAAN9Eb?format=jpg&name=medium">
-
-</div>
-
-🔒 Auto Connect
-🔒 Fast Free Servers
-🔒 Simple & Secure 
-
-<div align=center>
-</div>
-
-###  📥 [Download](https://github.com/Begzar/BegzarApp/releases)
-
-<div align=left>
-<table>
-    <thead align=left>
-        <tr>
-            <th>OS</th>
-            <th>Download</th>
-        </tr>
-    </thead>
-    <tbody align=left>
-        <tr>
-        <td>Android</td>
-            <td>
-                <a href="https://github.com/Begzar/BegzarApp/releases/download/v5.0.0/begzar-v8a-5.0.0.apk"><img src="https://img.shields.io/badge/APK-ARMv8-168039.svg?logo=android"></a><br>
-                <a href="https://github.com/Begzar/BegzarApp/releases/download/v5.0.0/begzar-v7a-5.0.0.apk"><img src="https://img.shields.io/badge/APK-ARMv7-45bf55.svg?logo=android"></a><br>
-            </td>
-        </tr>
-
-    
-</table>
-
-</div>
-
-
-<br>
-
-<div align="left">
-    <h1>2. Hiddify</h1>
+    <h1>1. Hiddify</h1>
 </div>
 
 <p dir="ltr" style="font-size: 16px">A multi-platform proxy client based on <a href="https://github.com/SagerNet/sing-box">Sing-box</a> universal proxy tool-chain. Hiddify offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Hiddify is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet.</p>
@@ -136,7 +88,7 @@ https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/
 </div>
 
 <div align="left">
-    <h1>3. Karing </h1>
+    <h1>2. Karing </h1>
 </div>
 
 <div align=center>
@@ -224,6 +176,52 @@ https://hin.isherv.in
 
 </div>
 
+<div align="left">
+    <h1>3. Begzar</h1>
+</div>
+
+
+<p dir="ltr" style="font-size: 16px">A multi-platform proxy client based on xray-core universal proxy tool-chain. Begzar offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Begzar is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet.</p>
+
+
+<div align=center>
+<img width=80% alt="English Demo" src="https://pbs.twimg.com/media/GaLIJlGXsAAN9Eb?format=jpg&name=medium">
+
+</div>
+
+🔒 Auto Connect
+🔒 Fast Free Servers
+🔒 Simple & Secure 
+
+<div align=center>
+</div>
+
+###  📥 [Download](https://github.com/Begzar/BegzarApp/releases)
+
+<div align=left>
+<table>
+    <thead align=left>
+        <tr>
+            <th>OS</th>
+            <th>Download</th>
+        </tr>
+    </thead>
+    <tbody align=left>
+        <tr>
+        <td>Android</td>
+            <td>
+                <a href="https://github.com/Begzar/BegzarApp/releases/download/v5.0.0/begzar-v8a-5.0.0.apk"><img src="https://img.shields.io/badge/APK-ARMv8-168039.svg?logo=android"></a><br>
+                <a href="https://github.com/Begzar/BegzarApp/releases/download/v5.0.0/begzar-v7a-5.0.0.apk"><img src="https://img.shields.io/badge/APK-ARMv7-45bf55.svg?logo=android"></a><br>
+            </td>
+        </tr>
+
+    
+</table>
+
+</div>
+
+
+<br>
 
 <div align="left">
     <h1>4. Amnezia VPN </h1>
