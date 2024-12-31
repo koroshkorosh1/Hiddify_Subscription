@@ -6,9 +6,9 @@ hysteria2://4e9ee29b39a28277@[2001:19f0:1000:20d0:5400:5ff:fe19:3ba9]:443?securi
 hysteria2://9bb452b106ffc217@[2001:19f0:1000:18b3:5400:5ff:fe19:3f6d]:443?security=tls&obfs=salamander&obfs-password=cd29099d&insecure=1#
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#
 hysteria2://ThisIsNotForSale-Free$ervice@api.tg8lnk.tech:443#soren.Singapore%201🇹🇷🇹🇷🇹🇷
-hysteria2://95c2b673-d899-4ff4-a6c1-eafa74268a5e@166.1.18.244:26699/?alpn=h3&insecure=1#US🇺🇸🍌🍌🇺🇸🍌🍌
+hysteria2://95c2b673-d899-4ff4-a6c1-eafa74268a5e@166.1.18.244:26699/?alpn=h3&insecure=1#US
 hysteria2://dongtaiwang.com@46.17.41.189:50717/?sni=www.bing.com&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20RU-Hysteria2%20%7C%200-0
-hysteria2://95c2b673-d899-4ff4-a6c1-eafa74268a5e@166.1.18.244:26699/?alpn=h3&insecure=1#🇺🇸-US😍🥰
+hysteria2://95c2b673-d899-4ff4-a6c1-eafa74268a5e@166.1.18.244:26699/?alpn=h3&insecure=1#🇺🇸-US
 hysteria2://ThisIsNotForSale-Free%24ervice@52.187.5.16:443?security=tls&insecure=1&sni=api.tg8lnk.tech#
 hysteria2://ThisIsNotForSale-Free%24ervice@52.163.114.191:443?security=tls&insecure=1&sni=api.tg8lnk.tech#
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#
