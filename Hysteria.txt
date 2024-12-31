@@ -1,3 +1,5 @@
+hysteria2://kugQgm1cWt@91.184.242.252:443?security=tls&obfs=salamander&obfs-password=ZHr2aBtNWmYGZ8NnBfjxU7A&insecure=1&sni=www.bing.com#@xs_filternet🌀
+hysteria2://kugQgm1cWt@91.184.242.252:443?security=tls&obfs=salamander&obfs-password=ZHr2aBtNWmYGZ8NnBfjxU7A&insecure=1&sni=www.whatsapp.com#@xs_filternet🌀
 hysteria2://dongtaiwang.com@46.17.41.189:50717?security=tls&insecure=1&sni=www.bing.com#@mobilesignal
 hysteria2://f3182d97-8472-4433-8d75-7598d6978364@kaikaixinxin-ca.legeth.xyz:443?security=tls&insecure=0&mport=61001-61999&sni=kaikaixinxin-ca.legeth.xyz#@mobilesignal
 hy2://6568ca73-b2d4-4463-ac7a-73003deb913c@46.29.161.15:2453/?insecure=1&obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
