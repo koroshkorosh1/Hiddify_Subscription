@@ -74,7 +74,15 @@
 To get started with HiN VPN, simply follow the subscription links provided below. This link will grant you access to the latest VPN configurations, allowing you to secure your internet connection and browse the web with peace of mind.
 
 ```
-https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/V2RAY_CONFIGS_POOL.txt
+https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub
+```
+
+```
+https://raw.githubusercontent.com/coldwater-10/V2RayAggregator/master/Eternity.txt
+```
+
+```
+https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/mci.txt
 ```
 
 ```
@@ -84,6 +92,7 @@ https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/
 ```
 https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/Hysteria.txt
 ```
+
 
 </div>
 
