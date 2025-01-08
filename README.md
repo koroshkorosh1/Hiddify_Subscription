@@ -90,6 +90,10 @@ https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/
 ```
 
 ```
+https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt#Anonymous-Multi
+```
+
+```
 https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/mci.txt
 ```
 
