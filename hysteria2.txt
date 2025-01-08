@@ -1,4 +1,4 @@
-hysteria2://db618f3c@128.14.239.118:37942?sni=www.bing.com&insecure=1#soren🇹🇼🇹🇼
+hysteria2://db618f3c@128.14.239.118:37942?sni=www.bing.com&insecure=1#🇹🇼🇹🇼
 hysteria://195.154.184.5:22787/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7
 hy2://8ea05545-2dc7-4487-8005-b7d581169945@132.226.208.232:55215/?insecure=1&sni=shy35.zqjc.cloud#%F0%9F%87%AC%F0%9F%87%A7
 hy2://8ea05545-2dc7-4487-8005-b7d581169945@132.226.208.232:55215/?insecure=1&sni=shy35.zqjc.cloud#%F0%9F%87%AC%F0%9F%87%A7
