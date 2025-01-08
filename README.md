@@ -82,11 +82,11 @@ https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/
 ```
 
 ```
-https://raw.githubusercontent.com/Vahidqaz/BESTIIVPNBOT/refs/heads/main/BESTIIVPNBOT.txt
+https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/hysteria2.txt
 ```
 
 ```
-https://raw.githubusercontent.com/coldwater-10/V2RayAggregator/master/Eternity.txt
+https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/ss.txt
 ```
 
 ```
