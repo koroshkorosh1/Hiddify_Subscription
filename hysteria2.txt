@@ -1,3 +1,9 @@
+hy2://5a072771500faceb@150.241.77.174:33344/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=f64fc97d84ec14cf#%F0%9F%87%B8%F0%9F%87%AA
+hy2://5a072771500faceb@[2a0b:4140:e6c5::2]:33344/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=f64fc97d84ec14cf#%F0%9F%87%B8%F0%9F%87%AA%20%281%29
+hy2://36a78e623720090d@150.241.77.178:22233/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=108ecb57dc7a7694#%F0%9F%87%B8%F0%9F%87%AA%20%282%29
+hy2://36a78e623720090d@[2a0b:4140:e6c6::2]:22233/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=108ecb57dc7a7694#%F0%9F%87%B8%F0%9F%87%AA%20%283%29
+hy2://c76f08e20fb6368b@150.241.77.182:11122/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=64da92df31fc63c1#%F0%9F%87%B8%F0%9F%87%AA%20%284%29
+hy2://c76f08e20fb6368b@[2a0b:4140:e6c7::2]:11122/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=64da92df31fc63c1#%F0%9F%87%B8%F0%9F%87%AA%20%285%29
 hysteria2://db618f3c@128.14.239.118:37942?sni=www.bing.com&insecure=1#🇹🇼🇹🇼
 hysteria://195.154.184.5:22787/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7
 hy2://8ea05545-2dc7-4487-8005-b7d581169945@132.226.208.232:55215/?insecure=1&sni=shy35.zqjc.cloud#%F0%9F%87%AC%F0%9F%87%A7
