@@ -49,10 +49,10 @@ hy2://4e9ee29b39a28277@66.135.11.68:443/?insecure=1&sni=66.135.11.68&obfs=salama
 hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&sni=45.76.0.86&obfs=salamander&obfs-password=4b817757#%F0%9F%87%BA%F0%9F%87%B8%20
 hy2://Telegram:%40KevinZakarian@[2606:a8c0:3:146::a]:8443/?insecure=1&sni=kevin.iserver.store&obfs=salamander&obfs-password=Telegram%3A%40KevinZakarian#%F0%9F%87%BA%F0%9F%87%B8%20
 hy2://Telegram:%40KevinZakarian@kevin.iserver.store:8443/?insecure=1&obfs=salamander&obfs-password=Telegram%3A%40KevinZakarian#%F0%9F%87%BA%F0%9F%87%B8
-hy2://84551ec3-0575-4ea0-9db6-fae0f442c4fe@5.39.252.204:3942/?insecure=1&obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D#%F0%9F%94%921%40oneclickvpnkeys
-hy2://dd971935285d7fc1736bb11a00d984dc@jpg.infts.site:443/?mport=10000-15000&insecure=1&sni=jpg.infts.site#%F0%9F%94%926%40oneclickvpnkeys4
-hy2://34ed7f56-6e06-4128-a5eb-1e85083572e1@jpzl2.stardad.lol:48512/?insecure=1&sni=https%3A%2F%2Fbing.com#%F0%9F%94%927%40oneclickvpnkeys3
-hy2://2dcb9cee-bb4e-4cb6-b8df-00bad7ed23a0@kr.stardad.lol:23656/?insecure=1&sni=https%3A%2F%2Fbing.com#%F0%9F%94%9219%40oneclickvpnkeys2
-hy2://wbGUMK784bGyab0YTz23Ba@cone.tylone.world:443/?insecure=1#%F0%9F%94%923%40oneclickvpnkeys1
+hy2://84551ec3-0575-4ea0-9db6-fae0f442c4fe@5.39.252.204:3942/?insecure=1&obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D#%F0%9F%94%921%
+hy2://dd971935285d7fc1736bb11a00d984dc@jpg.infts.site:443/?mport=10000-15000&insecure=1&sni=jpg.infts.site#%F0%9F%94%926%
+hy2://34ed7f56-6e06-4128-a5eb-1e85083572e1@jpzl2.stardad.lol:48512/?insecure=1&sni=https%3A%2F%2Fbing.com#%F0%9F%94%927%
+hy2://2dcb9cee-bb4e-4cb6-b8df-00bad7ed23a0@kr.stardad.lol:23656/?insecure=1&sni=https%3A%2F%2Fbing.com#%F0%9F%94%9219%40
+hy2://wbGUMK784bGyab0YTz23Ba@cone.tylone.world:443/?insecure=1#
 
 
