@@ -1,6 +1,8 @@
 > [!TIP]
 > <img width="18" height="18" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/> If your Telegram wasn't loading or you didn't have a proxy and were looking for a Telegram proxy, you can use the link below. It will give you a proxy every time you open it.
-> https://snapp-good.ir
+> <a href="https://soroushmirzaei.github.io/telegram-proxies-collector/">Telegram Proxies Collector</a> |
+> <a href="https://yebekhe.site/api/tosingbox/">Convert your configurations to Singbox format easily</a>
+> 
 
 <div align="left">
     <h1>1. Hiddify</h1>
