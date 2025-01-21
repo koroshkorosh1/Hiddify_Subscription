@@ -84,14 +84,6 @@ https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/
 ```
 
 ```
-https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/hysteria2.txt
-```
-
-```
-https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/ss.txt
-```
-
-```
 https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt#Anonymous-Multi
 ```
 
