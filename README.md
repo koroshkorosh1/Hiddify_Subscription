@@ -84,12 +84,17 @@ https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/
 ```
 
 ```
+https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/config1.txt
+```
+
+```
 https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt#Anonymous-Multi
 ```
 
 ```
 https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/main/config.txt
 ```
+
 
 ```
 https://raw.githubusercontent.com/sinabigo/Xray/refs/heads/main/%40sinavm
