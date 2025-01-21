@@ -96,7 +96,7 @@ https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/head
 ```
 
 ```
-https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/mci.txt
+https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/main/config.txt
 ```
 
 </div>
