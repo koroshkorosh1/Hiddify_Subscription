@@ -99,6 +99,10 @@ https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/head
 https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/main/config.txt
 ```
 
+```
+https://raw.githubusercontent.com/sinabigo/Xray/refs/heads/main/%40sinavm
+```
+
 </div>
 
 <div align="left">
