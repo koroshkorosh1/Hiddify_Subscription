@@ -80,6 +80,10 @@
 To get started with HiN VPN, simply follow the subscription links provided below. This link will grant you access to the latest VPN configurations, allowing you to secure your internet connection and browse the web with peace of mind.
 
 ```
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/V2RAY_SUB.txt
+```
+
+```
 https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/config.txt
 ```
 
