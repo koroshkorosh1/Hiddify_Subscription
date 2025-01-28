@@ -17,3 +17,9 @@ hysteria2://7744a0a2-1972-402a-bc7d-129cee725586@xinyiyuan-us.jiumaojiu.org:4978
 hysteria2://7744a0a2-1972-402a-bc7d-129cee725586@xinyiyuan-hk.jiumaojiu.org:49075?security=tls&insecure=0&mport=49001-49999
 hysteria2://7744a0a2-1972-402a-bc7d-129cee725586@xinyiyuan-hk.jiumaojiu.org:49507?security=tls&insecure=0&mport=49001-49999
 hysteria2://7744a0a2-1972-402a-bc7d-129cee725586@xinyiyuan-us.jiumaojiu.org:49133?security=tls&insecure=0&mport=49001-49999
+hy2://4590ea9e596878be@109.120.135.123:32211/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=2a291382112ea43b
+hy2://4590ea9e596878be@[2a01:e5c0:65a8::2]:32211/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=2a291382112ea43b
+hy2://ccbb51ec5413b2c3@62.60.231.189:32321/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=66a9aafc46516805
+hy2://ccbb51ec5413b2c3@[2a01:e5c0:65a6::2]:32321/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=66a9aafc46516805
+hy2://f39f16a9c819663f@[2a01:e5c0:65a7::2]:13111/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=595491cda040ec2d
+hy2://f39f16a9c819663f@103.249.134.26:13111/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=595491cda040ec2d
