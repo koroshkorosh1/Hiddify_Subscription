@@ -23,3 +23,7 @@ hy2://ccbb51ec5413b2c3@62.60.231.189:32321/?insecure=1&sni=www.google.com&obfs=s
 hy2://ccbb51ec5413b2c3@[2a01:e5c0:65a6::2]:32321/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=66a9aafc46516805#23
 hy2://f39f16a9c819663f@[2a01:e5c0:65a7::2]:13111/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=595491cda040ec2d#24
 hy2://f39f16a9c819663f@103.249.134.26:13111/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=595491cda040ec2d#25
+hysteria2://ZIXQa-7pg0vPahuyi8bABhob@13.215.174.122:18885?insecure=1#26
+hysteria2://ZIXQa-7pg0vPahuyi8bABhob@13.215.174.122:18884?insecure=1#27
+hysteria2://ZIXQa-7pg0vPahuyi8bABhob@13.215.174.122:18886?insecure=1#28
+hysteria2://ZIXQa-7pg0vPahuyi8bABhob@13.215.174.122:18888?insecure=1#29
