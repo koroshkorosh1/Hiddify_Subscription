@@ -92,6 +92,10 @@ https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/
 ```
 
 ```
+https://xray.abvpn.ru/vless/d77a3fd8-6c33-4916-9f1b-d6ffd5c95e6f/872108002.json#abvpn
+```
+
+```
 https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/main/config.txt
 ```
 
