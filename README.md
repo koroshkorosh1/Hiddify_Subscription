@@ -24,24 +24,18 @@
 ###  📥 [Download](https://github.com/hiddify/hiddify-next/releases)
 <a href="https://play.google.com/store/apps/details?id=app.hiddify.com"><img height=50px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://apps.microsoft.com/detail/Hiddify/9pdfnl3qv2s5?mode=mini" target="_blank"><img height=50px src="https://github.com/hiddify/hiddify-next/assets/125398461/620750bb-4459-41b5-9f86-ba82119345b8" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<a href="https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone"><img height=50px src="https://github.com/user-attachments/assets/a7c62126-07ce-4f18-8197-bbb672f6d8be">
 <div align=left>
 <table>
-    <thead align=left>
+    <thead align="left">
         <tr>
             <th>OS</th>
             <th>Download</th>
         </tr>
     </thead>
-    <tbody align=left>
+    <tbody align="left">
         <tr>
-        <td>iOS</td>
-            <td>
-                <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-iOS.ipa"><img src="https://img.shields.io/badge/IPA-Universal-c0c0c0.svg?logo=ios"></a>
-            </td>
-        </tr>
-        <tr>
-        <td>Android</td>
+            <td>Android</td>
             <td>
                 <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-universal.apk"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"></a><br>
                 <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-arm64.apk"><img src="https://img.shields.io/badge/APK-ARMv8-168039.svg?logo=android"></a><br>
@@ -111,7 +105,7 @@ https://raw.githubusercontent.com/sinabigo/Xray/refs/heads/main/%40sinavm
 </div>
 
 <div align=center>
-<img width=30% alt="English Demo" src="https://raw.githubusercontent.com/KaringX/karing/main/README_assets/demo/home.png">
+<img width=84% alt="English Demo" src="https://karing.app/en/img/karing-main.webp">
 
 </div>
 
@@ -139,43 +133,33 @@ https://raw.githubusercontent.com/sinabigo/Xray/refs/heads/main/%40sinavm
 
 ###  📥 [Download](https://github.com/KaringX/karing/releases)
 
+<a href="https://play.google.com/store/apps/details?id=app.hiddify.com"><img height=50px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://apps.apple.com/us/app/karing/id6472431552"><img height=50px src="https://github.com/user-attachments/assets/a7c62126-07ce-4f18-8197-bbb672f6d8be">
+
+
 <div align=left>
 <table>
-    <thead align=left>
+    <thead align="left">
         <tr>
             <th>OS</th>
             <th>Download</th>
         </tr>
     </thead>
-    <tbody align=left>
+    <tbody align="left">
         <tr>
-        <td>iOS</td>
+            <td>Android</td>
             <td>
-                <a href="https://apps.apple.com/us/app/karing/id6472431552"><img src="https://img.shields.io/badge/IPA-Universal-c0c0c0.svg?logo=ios"></a>
-            </td>
-        </tr>
-        <tr>
-        <td>Android</td>
-            <td>
-                <a href="https://github.com/KaringX/karing/releases/download/v1.0.27.353/karing_1.0.27.353_android_arm64.apk"><img src="https://img.shields.io/badge/APK-ARMv8-168039.svg?logo=android"></a><br>
-                <a href="https://github.com/KaringX/karing/releases/download/v1.0.27.353/karing_1.0.27.353_android_armv7.apk"><img src="https://img.shields.io/badge/APK-ARMv7-45bf55.svg?logo=android"></a><br>
+                <a href="https://github.com/KaringX/karing/releases"><img src="https://img.shields.io/badge/APK-168039.svg?logo=android"></a><br>
             </td>
         </tr>
         <tr>
             <td>Windows</td>
             <td>
-                <a href="https://github.com/KaringX/karing/releases/download/v1.0.27.353/karing_1.0.27.353_windows_x64.exe"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a><br>
-                <a href="https://github.com/KaringX/karing/releases/download/v1.0.27.353/karing_1.0.27.353_windows_x64.zip"><img src="https://img.shields.io/badge/Portable-x64-67b7d1.svg?logo=windows"></a>
+                <a href="https://github.com/KaringX/karing/releases"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a><br>
             </td>
         </tr>
     </tbody>
 </table>
-
-#### <img height=15px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30">  Subscription Links
-    
-```
-https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/config.txt
-```
 
 </div>
 
@@ -190,7 +174,7 @@ https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/
 
 
 <div align=center>
-<img width=80% alt="English Demo" src="https://pbs.twimg.com/media/GaLIJlGXsAAN9Eb?format=jpg&name=medium">
+<img width=80% alt="English Demo" src="https://private-user-images.githubusercontent.com/185405785/408825980-9f7225f9-a1e9-41f1-b737-e50d9d79949f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg0ODE4OTcsIm5iZiI6MTczODQ4MTU5NywicGF0aCI6Ii8xODU0MDU3ODUvNDA4ODI1OTgwLTlmNzIyNWY5LWExZTktNDFmMS1iNzM3LWU1MGQ5ZDc5OTQ5Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIwMlQwNzMzMTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNzliNTgzNjNkODQ0MDY2ZjEyZmRlOTdiZjhjZmMzMTg5MGE3NWRkZTExMjZiYzQxNjRjZjhjYWNiNWU3MTg1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.vPG5UM5D3zOWcWM3YP7XkQ8g4GAitSMfRNfiGZFCANE">
 
 </div>
 
@@ -203,26 +187,29 @@ https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/
 
 ###  📥 [Download](https://github.com/Begzar/BegzarApp/releases)
 
-<div align=left>
+<div align="left">
 <table>
-    <thead align=left>
+    <thead align="left">
         <tr>
             <th>OS</th>
             <th>Download</th>
         </tr>
     </thead>
-    <tbody align=left>
+    <tbody align="left">
         <tr>
-        <td>Android</td>
+            <td>Android</td>
             <td>
-                <a href="https://github.com/Begzar/BegzarApp/releases/download/v5.0.0/begzar-v8a-5.0.0.apk"><img src="https://img.shields.io/badge/APK-ARMv8-168039.svg?logo=android"></a><br>
-                <a href="https://github.com/Begzar/BegzarApp/releases/download/v5.0.0/begzar-v7a-5.0.0.apk"><img src="https://img.shields.io/badge/APK-ARMv7-45bf55.svg?logo=android"></a><br>
+                <a href="https://github.com/Begzar/BegzarApp/releases"><img src="https://img.shields.io/badge/APK-168039.svg?logo=android"></a><br>
             </td>
         </tr>
-
-    
+        <tr>
+            <td>Windows</td>
+            <td>
+                <a href="https://github.com/Begzar/BegzarWindows/releases"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a><br>
+            </td>
+        </tr>
+    </tbody>
 </table>
-
 </div>
 
 
@@ -247,6 +234,7 @@ Amnezia is an open-source VPN client, with a key feature that enables you to dep
 ### 📥 [Download](https://github.com/amnezia-vpn/amnezia-client/releases)
 
 <a href="https://play.google.com/store/apps/details?id=org.amnezia.vpn"><img height=50px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://apps.apple.com/us/app/amneziavpn/id1600529900"><img height=50px src="https://github.com/user-attachments/assets/a7c62126-07ce-4f18-8197-bbb672f6d8be">
 
 <div align=left>
 <table>
@@ -307,73 +295,10 @@ vpn://eyJjb25maWdfdmVyc2lvbiI6IDEuMCwgImFwaV9lbmRwb2ludCI6ICJodHRwczovL2FiYjZkYz
 
 </div>
 
+<div align="left">
 
 <div align="left">
-    <h1>5. Hit-vpn</h1>
-</div>
-
-Works without loss of speed. We do not allow our servers to be overloaded. Huge server park in the best data centers of the world.  New protocol with increased data protection and privacy. Protects your privacy on public Wi-Fi spots. The service is installed and managed by you through the Telegram bot.
-
-</div>
-
-<div style="display: flex; flex-direction: column;">
-    <p align="center">
-  <img src="https://play-lh.googleusercontent.com/Ak23te6RCTNvyo3lPbcp258IaMWDt-mXEeSYIjjHzSvYCH5CjtMUaTB0TKTvbL6gExI=w526-h296-rw" alt="Image 1" width="200" />
-  <img src="https://play-lh.googleusercontent.com/6tB-DRQlfj7yHlNKQC3vlG5d8EjJY_9TaPSa1Tc6KcUkY60P1103ZYsjByzF-Dmrvw=w526-h296-rw" alt="Image 2" width="200" />
-  <img src="https://play-lh.googleusercontent.com/Otu1rhIWxasFby4hR5CHeqYNP8ZZ_sS0HirJ9XmdvNM3es8HFWTof0Brav9lUMFwtg=w526-h296-rw" alt="Image 3" width="200" />
-  <img src="https://play-lh.googleusercontent.com/h8Ykm0QRkBpevxivFJxfyDyBNTAR0NdLEfRaC32Wi1S7IH6rFIP2L21yioYcFPZI_-o3=w526-h296-rw" alt="Image 3" width="200" />
-</div>
-
-### 📥 [Download](https://hit-vpn.net/)
-
-<a href="https://play.google.com/store/apps/details?id=app.hiddify.com"><img height=50px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-<div align=left>
-<table>
-    <thead align=left>
-        <tr>
-            <th>Sistema Operacional</th>
-            <th>Download</th>
-        </tr>
-    </thead>
-    <tbody align=left>
-        <tr>
-            <td>iOS</td>
-            <td>
-                <a href="https://apps.apple.com/ru/app/hitvpn-%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-vpn/id6463235095"><img src="https://img.shields.io/badge/IPA-Universal-c0c0c0.svg?logo=ios"></a>
-            </td>
-        </tr>
-        <td>Android</td><td>
-            <a href="https://hitvpn.online/hvpn-android-121.apk"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=github"></a><br>
-            <a href="https://hitvpn.online/hvpn-android-121.apk"><img src="https://img.shields.io/badge/APK-ARMv8-168039.svg?logo=github"></a><br>
-            <a href="https://hitvpn.online/hvpn-android-121.apk"><img src="https://img.shields.io/badge/APK-ARMv7-45bf55.svg?logo=github"></a><br>
-            <a href="https://hitvpn.online/hvpn-android-121.apk"><img src="https://img.shields.io/badge/APK-x64-96ed89.svg?logo=github"></a>
-        </td>
-        </tr>
-        <tr>
-            <td>Windows</td>
-            <td><a href="https://hitvpn.online/hitvpn-amd64-0.1.11.msi"><img src="https://img.shields.io/badge/Setup-x64-0078d7.svg?logo=github"></a><br>
-        </td>
-        </tr>
-        <tr>
-            <td>macOS</td>
-            <td><a href="https://apps.apple.com/ru/app/hitvpn-%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-vpn/id6463235095?platform=mac"><img src="https://img.shields.io/badge/DMG-Universal-ea005e.svg?logo=github"></a></td>
-        </tr>
-    </tbody>
-</table>
-
-## Configuration 
-MEET THE NEW GENERATION VPN! SECURE TRAFFIC ENCRYPTION TECHNOLOGY WILL MAKE YOU A REAL GHOST.Each server has 1 GB/s bandwidth. In contrast to pseudo-unlimited tariffs of competitors, we do not reduce the bandwidth and connection speed.The VPN works under any conditions, overcoming any obstacles in its way. It maintains a constant connection on both phones and computers.
-
-- Run Telegram bot https://telegram.me/hitvpnbot
-- Get Configuration
-
-</div>
-
-
-<div align="left">
-    <h1>6. Oblivion Desktop</h1>
+    <h1>5. Oblivion Desktop</h1>
 </div>
 
 <div align="center">
@@ -411,11 +336,6 @@ User-Friendly: Simple, intuitive interface.
             <td>Windows</td>
             <td>
                 <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/Setup-x64-0C88D8.svg?logo=windows"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/Setup-arm64-0C88D8.svg?logo=windows"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/Setup-x86-0C88D8.svg?logo=windows"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/Portable-x64-005AA8.svg?logo=windows"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/Portable-arm64-005AA8.svg?logo=windows"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/Portable-x86-005AA8.svg?logo=windows"></a><br>
             </td>
             <td>
                 v10<br>
@@ -425,22 +345,14 @@ User-Friendly: Simple, intuitive interface.
         <tr>
             <td>macOS</td>
             <td>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/DMG-arm64-F0F0F1.svg?logo=apple"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/DMG-x64-5D5D5D.svg?logo=apple"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/ZIP-arm64-F0F0F1.svg?logo=apple" /></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/ZIP-x64-5D5D5D.svg?logo=apple" /></a>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases/"><img src="https://img.shields.io/badge/DMG-arm64-F0F0F1.svg?logo=apple"></a><br>
             </td>
             <td></td>
         </tr>
         <tr>
             <td>Linux</td>
             <td>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/DEB-x64-DC470E.svg?logo=debian"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/DEB-arm64-DC470E.svg?logo=debian"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/RPM-x64-01ABD2.svg?logo=redhat"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/RPM-arm64-01ABD2.svg?logo=redhat"></a><br>    
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/tar.xz-x64-EDC204.svg?logo=linux"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/tar.xz-arm64-EDC204.svg?logo=linux"></a><br>             
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases/"><img src="https://img.shields.io/badge/DEB-x64-DC470E.svg?logo=debian"></a><br>        
             </td>
             <td>
                 Gnome<br>
@@ -449,7 +361,7 @@ User-Friendly: Simple, intuitive interface.
         </tr>
         <td>Android</td>
             <td>
-                <a href="https://github.com/bepass-org/oblivion/releases/latest"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"></a><br>
+                <a href="https://github.com/bepass-org/oblivion/releases/"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"></a><br>
                 <a href="https://play.google.com/store/apps/details?id=org.bepass.oblivion"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=googleplay"></a>
             </td>
             <td>v6+</td>
