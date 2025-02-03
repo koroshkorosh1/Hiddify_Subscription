@@ -74,6 +74,14 @@
 To get started with HiN VPN, simply follow the subscription links provided below. This link will grant you access to the latest VPN configurations, allowing you to secure your internet connection and browse the web with peace of mind.
 
 ```
+https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json
+```
+
+```
+https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_sing-box_sub
+```
+
+```
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/V2RAY_CONFIGS.TXT
 ```
 
@@ -86,16 +94,7 @@ https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/
 ```
 
 ```
-https://xray.abvpn.ru/vless/d77a3fd8-6c33-4916-9f1b-d6ffd5c95e6f/872108002.json#abvpn
-```
-
-```
 https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/main/config.txt
-```
-
-
-```
-https://raw.githubusercontent.com/sinabigo/Xray/refs/heads/main/%40sinavm
 ```
 
 </div>
