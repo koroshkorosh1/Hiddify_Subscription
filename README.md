@@ -86,6 +86,10 @@ https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/V2R
 ```
 
 ```
+https://xship.top/v1/subscribe?starlink=qvh0GoTcpdPiElTrYNcrHPO7#subscribe?starlink=qvh0GoTcpdPiElTrYNcrHPO7
+```
+
+```
 https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/config.txt
 ```
 
