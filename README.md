@@ -70,8 +70,6 @@
 
 #### <img height=15px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30">  Subscription Links
     
-To get started with HiN VPN, simply follow the subscription links provided below. This link will grant you access to the latest VPN configurations, allowing you to secure your internet connection and browse the web with peace of mind.
-
 ```
 https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json
 ```
@@ -92,7 +90,7 @@ https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/
 https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/config1.txt
 ```
 
-#### <img height=15px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30">  Subscription Links Yebekhe | <a href="https://yebekhe.site/api/tce//">Telegram Config Extractor</a>
+#### <img height=15px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30"> Subscription Links Yebekhe | <a href="https://yebekhe.site/api/tce//">Telegram Config Extractor</a>
 
 ```
 https://yebekhe.site/api/tce/api.php?id=@Outline_FreeKey&base64=false
@@ -110,7 +108,6 @@ https://yebekhe.site/api/tce/api.php?id=@V2ray_Collector&base64=false
 ```
 https://yebekhe.site/api/tce/api.php?id=@V2ray_Collector&base64=false
 ```
-
 
 </div>
 
