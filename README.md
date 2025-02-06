@@ -2,7 +2,6 @@
 > <img width="18" height="18" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/> If your Telegram wasn't loading or you didn't have a proxy and were looking for a Telegram proxy, you can use the link below. It will give you a proxy every time you open it.
 > <a href="https://soroushmirzaei.github.io/telegram-proxies-collector/">Telegram Proxies Collector</a> |
 > <a href="https://yebekhe.site/api/tosingbox/">Convert your configurations to Singbox format easily</a>
-> 
 
 <div align="left">
     <h1>1. Hiddify</h1>
@@ -96,6 +95,26 @@ https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/
 ```
 https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/config1.txt
 ```
+
+#### <img height=15px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30">  Subscription Links Yebekhe | <a href="https://yebekhe.site/api/tce//">Telegram Config Extractor</a>
+
+```
+https://yebekhe.site/api/tce/api.php?id=@Outline_FreeKey&base64=false
+```
+
+```
+https://yebekhe.site/api/tce/api.php?id=@SH3OX&base64=false
+```
+
+```
+https://yebekhe.site/api/tce/api.php?id=@V2ray_Collector&base64=false
+```
+
+
+```
+https://yebekhe.site/api/tce/api.php?id=@V2ray_Collector&base64=false
+```
+
 
 </div>
 
