@@ -104,9 +104,8 @@ https://yebekhe.site/api/tce/api.php?id=@SH3OX&base64=false
 https://yebekhe.site/api/tce/api.php?id=@V2ray_Collector&base64=false
 ```
 
-
 ```
-https://yebekhe.site/api/tce/api.php?id=@V2ray_Collector&base64=false
+https://yebekhe.site/api/tce/api.php?id=@OutlineOpenKeys&base64=false
 ```
 
 </div>
