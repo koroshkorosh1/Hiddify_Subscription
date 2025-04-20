@@ -71,45 +71,11 @@
 #### <img height=15px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30">  Subscription Links
 
 ```
-https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/Sing-Box.json
-```
-
-```
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs.txt
-```
-    
-```
-https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_sing-box_sub
-```
+```   
 
 ```
 https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/config.txt
-```
-
-#### <img height=15px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30"> Subscription Links Yebekhe | <a href="https://yebekhe.site/api/tce//">Telegram Config Extractor</a>
-
-```
-https://yebekhe.site/api/tce/api.php?id=@v2Source&base64=true#@v2Source
-```
-
-```
-https://yebekhe.site/api/tce/api.php?id=@GetConfigIR&base64=true#@GetConfigIR
-```
-
-```
-https://yebekhe.site/api/tce/api.php?id=@Outline_FreeKey&base64=false#@Outline_FreeKey
-```
-
-```
-https://yebekhe.site/api/tce/api.php?id=@SH3OX&base64=false#@SH3OX
-```
-
-```
-https://yebekhe.site/api/tce/api.php?id=@V2ray_Collector&base64=false#@V2ray_Collector
-```
-
-```
-https://yebekhe.site/api/tce/api.php?id=@OutlineOpenKeys&base64=false#@OutlineOpenKeys
 ```
 
 </div>
