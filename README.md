@@ -70,9 +70,8 @@
 
 #### <img height=15px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30">  Subscription Links
 
-
 ```
-https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/config.txt
+https://p5.punchline.ir:2096/v2raybluecrystal/v2raybluecrystal-10TB-nth
 ```
 
 ```
