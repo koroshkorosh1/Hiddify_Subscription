@@ -71,19 +71,23 @@
 #### <img height=15px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30">  Subscription Links
 
 ```
-https://p5.punchline.ir:2096/v2raybluecrystal/v2raybluecrystal-10TB-nth
+https://p6.punchline.ir:2096/sub/v2raybluecrystal2tb
 ```
 
 ```
-https://p5.punchline.ir:2096/v2raybluecrystal/v2raybluecrystal-4000
+https://p6.punchline.ir:2096/sub/v2raybluecrystal5TBFR
 ```
 
 ```
-https://p5.punchline.ir:2096/v2raybluecrystal/v2raybluecrystal-2TB-nth
+https://p7.punchline.ir:2096/v2raybluecrystal/turkey5tb
 ```
 
 ```
-https://p5.punchline.ir:2096/v2raybluecrystal/v2raybluecrystal-15TB-nth
+https://p7.punchline.ir:2096/v2raybluecrystal/turkey4tera
+```
+
+```
+https://proud-fire-1775.mahmmod2025.workers.dev/sub/e0e345e3-e2ce-4778-81ff-67b4a8feddd8#BPB-Normal
 ```
 
 </div>
