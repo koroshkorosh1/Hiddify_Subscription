@@ -71,24 +71,21 @@
 #### <img height=15px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30">  Subscription Links
 
 ```
-https://p6.punchline.ir:2096/sub/v2raybluecrystal2tb
+https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/main/config.txt
 ```
 
 ```
-https://p6.punchline.ir:2096/sub/v2raybluecrystal5TBFR
+https://raw.githubusercontent.com/darknessm427/V2ray-Sub-Collector/refs/heads/main/Darkness%20Sub1.txt
 ```
 
 ```
-https://p7.punchline.ir:2096/v2raybluecrystal/turkey5tb
+https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/custom/udp.txt
 ```
 
 ```
-https://p7.punchline.ir:2096/v2raybluecrystal/turkey4tera
+https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/US.txt
 ```
 
-```
-https://proud-fire-1775.mahmmod2025.workers.dev/sub/e0e345e3-e2ce-4778-81ff-67b4a8feddd8#BPB-Normal
-```
 
 </div>
 
