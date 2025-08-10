@@ -71,21 +71,12 @@
 #### <img height=15px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30">  Subscription Links
 
 ```
-https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/main/config.txt
+https://leader.itn24.ir/v2ray_configs.txt?rand=12345
 ```
 
 ```
-https://raw.githubusercontent.com/darknessm427/V2ray-Sub-Collector/refs/heads/main/Darkness%20Sub1.txt
+https://raw.githubusercontent.com/WearestandTelegram/Wearestand/refs/heads/main/wearestand.json
 ```
-
-```
-https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/custom/udp.txt
-```
-
-```
-https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/US.txt
-```
-
 
 </div>
 
