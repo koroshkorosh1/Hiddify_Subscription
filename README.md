@@ -75,8 +75,10 @@ https://leader.itn24.ir/v2ray_configs.txt?rand=12345
 ```
 
 ```
-https://raw.githubusercontent.com/WearestandTelegram/Wearestand/refs/heads/main/wearestand.json
+https://ir-sub.fun/?=yutlQRef
 ```
+
+
 
 </div>
 
