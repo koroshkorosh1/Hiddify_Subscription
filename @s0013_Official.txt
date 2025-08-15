@@ -1,0 +1,1993 @@
+{
+  "outbounds": [
+    {
+      "type": "vless",
+      "tag": "V1+@s0013_official+@s0013+01 § 0",
+      "server": "v01.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V2+@s0013_official+@s0013+02 § 1",
+      "server": "v02.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V3+@s0013_official+@s0013+03 § 2",
+      "server": "v03.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V4+@s0013_official+@s0013+04 § 3",
+      "server": "v04.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V5+@s0013_official+@s0013+05 § 4",
+      "server": "v05.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V6+@s0013_official+@s0013+06 § 5",
+      "server": "v06.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V7+@s0013_official+@s0013+07 § 6",
+      "server": "v07.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V8+@s0013_official+@s0013+08 § 7",
+      "server": "v08.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V9+@s0013_official+@s0013+09 § 8",
+      "server": "v09.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V10+@s0013_official+@s0013+10 § 9",
+      "server": "v10.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V11+@s0013_official+@s0013+11 § 10",
+      "server": "v11.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V12+@s0013_official+@s0013+12 § 11",
+      "server": "v12.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V13+@s0013_official+@s0013+13 § 12",
+      "server": "v13.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V14+@s0013_official+@s0013+14 § 13",
+      "server": "v14.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V15+@s0013_official+@s0013+15 § 14",
+      "server": "v15.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V16+@s0013_official+@s0013+16 § 15",
+      "server": "v16.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V17+@s0013_official+@s0013+17 § 16",
+      "server": "v17.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V18+@s0013_official+@s0013+18 § 17",
+      "server": "v18.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V19+@s0013_official+@s0013+19 § 18",
+      "server": "v19.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V20+@s0013_official+@s0013+20 § 19",
+      "server": "v20.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V21+@s0013_official+@s0013+21 § 20",
+      "server": "v21.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V22+@s0013_official+@s0013+22 § 21",
+      "server": "v22.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V23+@s0013_official+@s0013+23 § 22",
+      "server": "v23.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V24+@s0013_official+@s0013+24 § 23",
+      "server": "v24.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V25+@s0013_official+@s0013+25 § 24",
+      "server": "v25.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V26+@s0013_official+@s0013+26 § 25",
+      "server": "v26.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V27+@s0013_official+@s0013+27 § 26",
+      "server": "v27.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V28+@s0013_official+@s0013+28 § 27",
+      "server": "v28.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V29+@s0013_official+@s0013+29 § 28",
+      "server": "v29.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V30+@s0013_official+@s0013+30 § 29",
+      "server": "v30.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V34+@s0013_official+@s0013+34 § 30",
+      "server": "v34.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V39+@s0013_official+@s0013+39 § 31",
+      "server": "v39.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V31+@s0013_official+@s0013+31 § 32",
+      "server": "v31.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V32+@s0013_official+@s0013+32 § 33",
+      "server": "v32.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V33+@s0013_official+@s0013+33 § 34",
+      "server": "v33.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V37+@s0013_official+@s0013+37 § 35",
+      "server": "v37.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V38+@s0013_official+@s0013+38 § 36",
+      "server": "v38.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V35+@s0013_official+@s0013+35 § 37",
+      "server": "v35.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V40+@s0013_official+@s0013+40 § 38",
+      "server": "v40.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V36+@s0013_official+@s0013+36 § 39",
+      "server": "v36.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    }
+  ]
+}
+--------------------
+09:55:53.738 uc.d
+->D(054E.java:1)
+{
+  "log": {
+    "level": "warn",
+    "output": "box.log",
+    "timestamp": true
+  },
+  "dns": {
+    "servers": [
+      {
+        "tag": "dns-remote",
+        "address": "udp://1.1.1.1",
+        "address_resolver": "dns-direct"
+      },
+      {
+        "tag": "dns-trick-direct",
+        "address": "https://sky.rethinkdns.com/",
+        "detour": "direct-fragment"
+      },
+      {
+        "tag": "dns-direct",
+        "address": "1.1.1.1",
+        "address_resolver": "dns-local",
+        "detour": "direct"
+      },
+      {
+        "tag": "dns-local",
+        "address": "local",
+        "detour": "direct"
+      },
+      {
+        "tag": "dns-block",
+        "address": "rcode://success"
+      }
+    ],
+    "rules": [
+      {
+        "domain": [
+          "v16.gaterserver.ir",
+          "v20.gaterserver.ir",
+          "v21.gaterserver.ir",
+          "v30.gaterserver.ir",
+          "v06.gaterserver.ir",
+          "v13.gaterserver.ir",
+          "v14.gaterserver.ir",
+          "v31.gaterserver.ir",
+          "v08.gaterserver.ir",
+          "v17.gaterserver.ir",
+          "v19.gaterserver.ir",
+          "v26.gaterserver.ir",
+          "v38.gaterserver.ir",
+          "v05.gaterserver.ir",
+          "v15.gaterserver.ir",
+          "v24.gaterserver.ir",
+          "v02.gaterserver.ir",
+          "v03.gaterserver.ir",
+          "v23.gaterserver.ir",
+          "v29.gaterserver.ir",
+          "v34.gaterserver.ir",
+          "v01.gaterserver.ir",
+          "v10.gaterserver.ir",
+          "v12.gaterserver.ir",
+          "v18.gaterserver.ir",
+          "v36.gaterserver.ir",
+          "v04.gaterserver.ir",
+          "v22.gaterserver.ir",
+          "v25.gaterserver.ir",
+          "v28.gaterserver.ir",
+          "v37.gaterserver.ir",
+          "v33.gaterserver.ir",
+          "v35.gaterserver.ir",
+          "v07.gaterserver.ir",
+          "v09.gaterserver.ir",
+          "v11.gaterserver.ir",
+          "v27.gaterserver.ir",
+          "v39.gaterserver.ir",
+          "v32.gaterserver.ir",
+          "v40.gaterserver.ir"
+        ],
+        "server": "dns-direct"
+      },
+      {
+        "domain_suffix": ".ir",
+        "geosite": "ir",
+        "server": "dns-direct"
+      },
+      {
+        "domain": "cp.cloudflare.com",
+        "server": "dns-remote",
+        "rewrite_ttl": 3000
+      }
+    ],
+    "final": "dns-remote",
+    "static_ips": {
+      "sky.rethinkdns.com": [
+        "188.114.96.3",
+        "188.114.97.3",
+        "2a06:98c1:3121::3",
+        "2a06:98c1:3120::3",
+        "104.17.147.22",
+        "104.17.148.22",
+        "104.18.0.48",
+        "104.18.1.48",
+        "2606:4700::6812:130",
+        "2606:4700::6812:30"
+      ]
+    },
+    "independent_cache": true
+  },
+  "inbounds": [
+    {
+      "type": "tun",
+      "tag": "tun-in",
+      "mtu": 9000,
+      "inet4_address": "172.19.0.1/28",
+      "auto_route": true,
+      "strict_route": true,
+      "endpoint_independent_nat": true,
+      "stack": "mixed",
+      "sniff": true,
+      "sniff_override_destination": true
+    },
+    {
+      "type": "mixed",
+      "tag": "mixed-in",
+      "listen": "127.0.0.1",
+      "listen_port": 2334,
+      "sniff": true,
+      "sniff_override_destination": true
+    },
+    {
+      "type": "direct",
+      "tag": "dns-in",
+      "listen": "127.0.0.1",
+      "listen_port": 6450,
+      "override_address": "1.1.1.1",
+      "override_port": 53
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "selector",
+      "tag": "select",
+      "outbounds": [
+        "auto",
+        "V1+@s0013_official+@s0013+01 § 0",
+        "V2+@s0013_official+@s0013+02 § 1",
+        "V3+@s0013_official+@s0013+03 § 2",
+        "V4+@s0013_official+@s0013+04 § 3",
+        "V5+@s0013_official+@s0013+05 § 4",
+        "V6+@s0013_official+@s0013+06 § 5",
+        "V7+@s0013_official+@s0013+07 § 6",
+        "V8+@s0013_official+@s0013+08 § 7",
+        "V9+@s0013_official+@s0013+09 § 8",
+        "V10+@s0013_official+@s0013+10 § 9",
+        "V11+@s0013_official+@s0013+11 § 10",
+        "V12+@s0013_official+@s0013+12 § 11",
+        "V13+@s0013_official+@s0013+13 § 12",
+        "V14+@s0013_official+@s0013+14 § 13",
+        "V15+@s0013_official+@s0013+15 § 14",
+        "V16+@s0013_official+@s0013+16 § 15",
+        "V17+@s0013_official+@s0013+17 § 16",
+        "V18+@s0013_official+@s0013+18 § 17",
+        "V19+@s0013_official+@s0013+19 § 18",
+        "V20+@s0013_official+@s0013+20 § 19",
+        "V21+@s0013_official+@s0013+21 § 20",
+        "V22+@s0013_official+@s0013+22 § 21",
+        "V23+@s0013_official+@s0013+23 § 22",
+        "V24+@s0013_official+@s0013+24 § 23",
+        "V25+@s0013_official+@s0013+25 § 24",
+        "V26+@s0013_official+@s0013+26 § 25",
+        "V27+@s0013_official+@s0013+27 § 26",
+        "V28+@s0013_official+@s0013+28 § 27",
+        "V29+@s0013_official+@s0013+29 § 28",
+        "V30+@s0013_official+@s0013+30 § 29",
+        "V34+@s0013_official+@s0013+34 § 30",
+        "V39+@s0013_official+@s0013+39 § 31",
+        "V31+@s0013_official+@s0013+31 § 32",
+        "V32+@s0013_official+@s0013+32 § 33",
+        "V33+@s0013_official+@s0013+33 § 34",
+        "V37+@s0013_official+@s0013+37 § 35",
+        "V38+@s0013_official+@s0013+38 § 36",
+        "V35+@s0013_official+@s0013+35 § 37",
+        "V40+@s0013_official+@s0013+40 § 38",
+        "V36+@s0013_official+@s0013+36 § 39"
+      ],
+      "default": "auto"
+    },
+    {
+      "type": "urltest",
+      "tag": "auto",
+      "outbounds": [
+        "V1+@s0013_official+@s0013+01 § 0",
+        "V2+@s0013_official+@s0013+02 § 1",
+        "V3+@s0013_official+@s0013+03 § 2",
+        "V4+@s0013_official+@s0013+04 § 3",
+        "V5+@s0013_official+@s0013+05 § 4",
+        "V6+@s0013_official+@s0013+06 § 5",
+        "V7+@s0013_official+@s0013+07 § 6",
+        "V8+@s0013_official+@s0013+08 § 7",
+        "V9+@s0013_official+@s0013+09 § 8",
+        "V10+@s0013_official+@s0013+10 § 9",
+        "V11+@s0013_official+@s0013+11 § 10",
+        "V12+@s0013_official+@s0013+12 § 11",
+        "V13+@s0013_official+@s0013+13 § 12",
+        "V14+@s0013_official+@s0013+14 § 13",
+        "V15+@s0013_official+@s0013+15 § 14",
+        "V16+@s0013_official+@s0013+16 § 15",
+        "V17+@s0013_official+@s0013+17 § 16",
+        "V18+@s0013_official+@s0013+18 § 17",
+        "V19+@s0013_official+@s0013+19 § 18",
+        "V20+@s0013_official+@s0013+20 § 19",
+        "V21+@s0013_official+@s0013+21 § 20",
+        "V22+@s0013_official+@s0013+22 § 21",
+        "V23+@s0013_official+@s0013+23 § 22",
+        "V24+@s0013_official+@s0013+24 § 23",
+        "V25+@s0013_official+@s0013+25 § 24",
+        "V26+@s0013_official+@s0013+26 § 25",
+        "V27+@s0013_official+@s0013+27 § 26",
+        "V28+@s0013_official+@s0013+28 § 27",
+        "V29+@s0013_official+@s0013+29 § 28",
+        "V30+@s0013_official+@s0013+30 § 29",
+        "V34+@s0013_official+@s0013+34 § 30",
+        "V39+@s0013_official+@s0013+39 § 31",
+        "V31+@s0013_official+@s0013+31 § 32",
+        "V32+@s0013_official+@s0013+32 § 33",
+        "V33+@s0013_official+@s0013+33 § 34",
+        "V37+@s0013_official+@s0013+37 § 35",
+        "V38+@s0013_official+@s0013+38 § 36",
+        "V35+@s0013_official+@s0013+35 § 37",
+        "V40+@s0013_official+@s0013+40 § 38",
+        "V36+@s0013_official+@s0013+36 § 39"
+      ],
+      "url": "http://cp.cloudflare.com/",
+      "interval": "10m0s"
+    },
+    {
+      "type": "vless",
+      "tag": "V1+@s0013_official+@s0013+01 § 0",
+      "server": "v01.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V2+@s0013_official+@s0013+02 § 1",
+      "server": "v02.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V3+@s0013_official+@s0013+03 § 2",
+      "server": "v03.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V4+@s0013_official+@s0013+04 § 3",
+      "server": "v04.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V5+@s0013_official+@s0013+05 § 4",
+      "server": "v05.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V6+@s0013_official+@s0013+06 § 5",
+      "server": "v06.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V7+@s0013_official+@s0013+07 § 6",
+      "server": "v07.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V8+@s0013_official+@s0013+08 § 7",
+      "server": "v08.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V9+@s0013_official+@s0013+09 § 8",
+      "server": "v09.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V10+@s0013_official+@s0013+10 § 9",
+      "server": "v10.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V11+@s0013_official+@s0013+11 § 10",
+      "server": "v11.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V12+@s0013_official+@s0013+12 § 11",
+      "server": "v12.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V13+@s0013_official+@s0013+13 § 12",
+      "server": "v13.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V14+@s0013_official+@s0013+14 § 13",
+      "server": "v14.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V15+@s0013_official+@s0013+15 § 14",
+      "server": "v15.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V16+@s0013_official+@s0013+16 § 15",
+      "server": "v16.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V17+@s0013_official+@s0013+17 § 16",
+      "server": "v17.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V18+@s0013_official+@s0013+18 § 17",
+      "server": "v18.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V19+@s0013_official+@s0013+19 § 18",
+      "server": "v19.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V20+@s0013_official+@s0013+20 § 19",
+      "server": "v20.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V21+@s0013_official+@s0013+21 § 20",
+      "server": "v21.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V22+@s0013_official+@s0013+22 § 21",
+      "server": "v22.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V23+@s0013_official+@s0013+23 § 22",
+      "server": "v23.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V24+@s0013_official+@s0013+24 § 23",
+      "server": "v24.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V25+@s0013_official+@s0013+25 § 24",
+      "server": "v25.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V26+@s0013_official+@s0013+26 § 25",
+      "server": "v26.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V27+@s0013_official+@s0013+27 § 26",
+      "server": "v27.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V28+@s0013_official+@s0013+28 § 27",
+      "server": "v28.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V29+@s0013_official+@s0013+29 § 28",
+      "server": "v29.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V30+@s0013_official+@s0013+30 § 29",
+      "server": "v30.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V34+@s0013_official+@s0013+34 § 30",
+      "server": "v34.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V39+@s0013_official+@s0013+39 § 31",
+      "server": "v39.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V31+@s0013_official+@s0013+31 § 32",
+      "server": "v31.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V32+@s0013_official+@s0013+32 § 33",
+      "server": "v32.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V33+@s0013_official+@s0013+33 § 34",
+      "server": "v33.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V37+@s0013_official+@s0013+37 § 35",
+      "server": "v37.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V38+@s0013_official+@s0013+38 § 36",
+      "server": "v38.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V35+@s0013_official+@s0013+35 § 37",
+      "server": "v35.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V40+@s0013_official+@s0013+40 § 38",
+      "server": "v40.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "V36+@s0013_official+@s0013+36 § 39",
+      "server": "v36.gaterserver.ir",
+      "server_port": 1370,
+      "uuid": "16d69e95-a2a7-41bd-b8df-95a0df57e7e5",
+      "tls": {
+        "enabled": true,
+        "server_name": "refersion.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
+          "short_id": "e1afb93bfe75a34b"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "dns",
+      "tag": "dns-out"
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "direct",
+      "tag": "direct-fragment",
+      "tls_fragment": {
+        "enabled": true,
+        "size": "20-40",
+        "sleep": "1-2"
+      }
+    },
+    {
+      "type": "direct",
+      "tag": "bypass"
+    },
+    {
+      "type": "block",
+      "tag": "block"
+    }
+  ],
+  "route": {
+    "geoip": {
+      "path": "geo-assets/sagernet-sing-geoip-geoip.db"
+    },
+    "geosite": {
+      "path": "geo-assets/sagernet-sing-geosite-geosite.db"
+    },
+    "rules": [
+      {
+        "inbound": "dns-in",
+        "outbound": "dns-out"
+      },
+      {
+        "port": 53,
+        "outbound": "dns-out"
+      },
+      {
+        "clash_mode": "Direct",
+        "outbound": "direct"
+      },
+      {
+        "clash_mode": "Global",
+        "outbound": "select"
+      },
+      {
+        "domain_suffix": ".ir",
+        "geosite": "ir",
+        "geoip": "ir",
+        "outbound": "bypass"
+      }
+    ],
+    "final": "select",
+    "auto_detect_interface": true,
+    "override_android_vpn": true
+  },
+  "experimental": {
+    "cache_file": {
+      "enabled": true,
+      "path": "clash.db"
+    },
+    "clash_api": {
+      "external_controller": "127.0.0.1:6756",
+      "secret": "ngODyXhXjDZD834i"
+    }
+  }
