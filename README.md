@@ -78,6 +78,13 @@ https://leader.itn24.ir/v2ray_configs.txt?rand=12345
 https://raw.githubusercontent.com/hamedp-71/Trojan/refs/heads/main/hp.txt
 ```
 
+```
+https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt#V2RAY_SUB
+```
+
+
+
+
 </div>
 
 <div align="left">
