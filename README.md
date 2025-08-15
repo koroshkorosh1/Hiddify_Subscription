@@ -75,7 +75,7 @@ https://leader.itn24.ir/v2ray_configs.txt?rand=12345
 ```
 
 ```
-https://hamedp-71.github.io/Arista_HP/#xsfilternet
+https://raw.githubusercontent.com/hamedp-71/Trojan/refs/heads/main/hp.txt
 ```
 
 </div>
