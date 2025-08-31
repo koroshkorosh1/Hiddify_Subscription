@@ -1,3 +1,7 @@
+hysteria2://y0b0F707xv@p1.3dfigures.ir:11726?fastopen=0&insecure=1&obfs=salamander&obfs-password=qilebcibeMO3IVBnfqal3i#v2raybluecrystal-rema
+hysteria2://y0b0F707xv@p1.3dfigures.ir:20971?fastopen=0&insecure=1&obfs=salamander&obfs-password=31khbqfou1njilgv2qoih#v2raybluecrystal-rema2
+hysteria2://y0b0F707xv@p1.3dfigures.ir:18646?fastopen=0&insecure=1&obfs=salamander&obfs-password=ywfihi3ohyg9iun3gvu#v2raybluecrystal-rema3
+hysteria2://y0b0F707xv@p1.3dfigures.ir:501?fastopen=0&insecure=1&obfs=salamander&obfs-password=Djxsjduwue#v2raybluecrystal-rema4
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.129.197.87:8880?encryption=none&security=none&type=ws&host=ip.langmanshanxi.top&path=%2F#%40v2ray_configs_pool
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@25.25.25.192:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#%40v2ray_configs_pool
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@62.60.233.173:2222#%40v2ray_configs_pool
