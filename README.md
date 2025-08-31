@@ -71,11 +71,7 @@
 #### <img height=15px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30">  Subscription Links
 
 ```
-https://leader.itn24.ir/v2ray_configs.txt?rand=12345
-```
-
-```
-https://raw.githubusercontent.com/hamedp-71/Trojan/refs/heads/main/hp.txt
+https://raw.githubusercontent.com/WearestandTelegram/Hamrah-wearestand/refs/heads/main/wearestand.json
 ```
 
 ```
