@@ -162,157 +162,35 @@ hysteria2://dailyconfigs:WLsA6GGydzT5GzMBAVpJVlG6LLXXFbLr@176.124.204.248:443?se
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:55922?obfs=salamander&obfs-password=kwuczFnI2RfP4BaLJdGieqVBCvoTNszu&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
 
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:25723?sni=rokna.farsonline24.ir&obfs=salamander&obfs-password=4RjZZn1Ze9qXP1sskWs53UIehtF64rae&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
+hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
+hy2://dongtaiwang.com@108.181.5.130:63015/?insecure=1&sni=apple.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
+hy2://5CBqBh6MeDq6GajcilBiDg%3D%3D@192.227.152.86:61001/?insecure=1&sni=192-227-152-86.nip.io#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:16916?obfs=salamander&obfs-password=qe5lLzTNUk0xoXNroAbgZfbqMdfmk81K&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
+hy2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443/?mport=26666-29999&insecure=1&sni=file-oss-ccs-02.dafei.de#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
+hysteria://208.87.243.187:15823/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
+hysteria://108.181.24.77:37872/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:39361?obfs=salamander&obfs-password=e8d0VLGlOyALc8HnQs7HYQSUK5Jrm21W&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
+hy2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468/?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
+hy2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 
+hy2://fabd2b79-693a-4a37-827c-6d299e8813b1@133.18.163.202:443/?mport=50000-55000&insecure=1&sni=www.microsoft.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AF%F0%9F%87%B5
 
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:10493?obfs=salamander&obfs-password=dpKhPOGnPdbV67sqrY3ot2Mj2At5IjQo&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
+hy2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712/?insecure=1&sni=bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AF%F0%9F%87%B5
 
+hy2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.217.4:22509/?insecure=1&sni=bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AC
 
+hy2://5OiuCsPmULZ0lJwts89fegLJE@47.129.100.149:17193/?insecure=1&sni=bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AC
 
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:51857?obfs=salamander&obfs-password=kmws29LIDCbskVnsBbvWKWMum9uiOdkG&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
+hy2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
+hysteria://51.159.226.1:49003/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:25260?obfs=salamander&obfs-password=dU33mpo7jSosOuibtuWjMhwq7QJg57q3&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:15883?obfs=salamander&obfs-password=a4LxABj0xTEUiaCrxsGLHgAQqjFqM6NJ&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:22034?obfs=salamander&obfs-password=DVUIlp939hAWr3QUK1CS2jMw4pOAnmnk&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:27390?obfs=salamander&obfs-password=ysgLYecTl0iZ7paqiN7Y3oRLZXMcVL57&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:40072?obfs=salamander&obfs-password=rsYdKEwB8oVni22KEXPi7AN4vnOrjMMm&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:30860?obfs=salamander&obfs-password=5kUuJlzcNjp2wJnAH3fwDoeOJ1HqOtpy&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:43526?obfs=salamander&obfs-password=0tsgA2rOZa7zqI4JHyilBh1Thf1IuA0H&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:53147?obfs=salamander&obfs-password=Hc933llD89esUUIoBa7PhFbZQ0PGR4Bj&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:17868?obfs=salamander&obfs-password=3d1MIc6dATtkwvWLMZ8odp7oPT43pcpS&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:30500?obfs=salamander&obfs-password=TYLRUQhLllSSAaCB0g5h45jCVvcb0vS6&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:41129?obfs=salamander&obfs-password=zXAK9gS0X8DF1OXVHhFiZEI4OU2ui1SA&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:11391?obfs=salamander&obfs-password=LJQwKlDThFqqdqpiZcFdf0Cb3fSU2cL8&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:32688?obfs=salamander&obfs-password=Z4UQxK80GzpewEuclEQt3qtoU3JQ6UmG&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:31346?obfs=salamander&obfs-password=UfH7ewjl2hdm4vUJS4VoYx3hVpuLv2aY&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:55922?obfs=salamander&obfs-password=kwuczFnI2RfP4BaLJdGieqVBCvoTNszu&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:25723?sni=rokna.farsonline24.ir&obfs=salamander&obfs-password=4RjZZn1Ze9qXP1sskWs53UIehtF64rae&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:16916?obfs=salamander&obfs-password=qe5lLzTNUk0xoXNroAbgZfbqMdfmk81K&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:39361?obfs=salamander&obfs-password=e8d0VLGlOyALc8HnQs7HYQSUK5Jrm21W&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:10493?obfs=salamander&obfs-password=dpKhPOGnPdbV67sqrY3ot2Mj2At5IjQo&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:51857?obfs=salamander&obfs-password=kmws29LIDCbskVnsBbvWKWMum9uiOdkG&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:25260?obfs=salamander&obfs-password=dU33mpo7jSosOuibtuWjMhwq7QJg57q3&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:15883?obfs=salamander&obfs-password=a4LxABj0xTEUiaCrxsGLHgAQqjFqM6NJ&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:22034?obfs=salamander&obfs-password=DVUIlp939hAWr3QUK1CS2jMw4pOAnmnk&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:27390?obfs=salamander&obfs-password=ysgLYecTl0iZ7paqiN7Y3oRLZXMcVL57&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:40072?obfs=salamander&obfs-password=rsYdKEwB8oVni22KEXPi7AN4vnOrjMMm&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:30860?obfs=salamander&obfs-password=5kUuJlzcNjp2wJnAH3fwDoeOJ1HqOtpy&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:43526?obfs=salamander&obfs-password=0tsgA2rOZa7zqI4JHyilBh1Thf1IuA0H&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:53147?obfs=salamander&obfs-password=Hc933llD89esUUIoBa7PhFbZQ0PGR4Bj&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:17868?obfs=salamander&obfs-password=3d1MIc6dATtkwvWLMZ8odp7oPT43pcpS&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:30500?obfs=salamander&obfs-password=TYLRUQhLllSSAaCB0g5h45jCVvcb0vS6&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:41129?obfs=salamander&obfs-password=zXAK9gS0X8DF1OXVHhFiZEI4OU2ui1SA&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:11391?obfs=salamander&obfs-password=LJQwKlDThFqqdqpiZcFdf0Cb3fSU2cL8&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:32688?obfs=salamander&obfs-password=Z4UQxK80GzpewEuclEQt3qtoU3JQ6UmG&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
-
-
-
-hysteria2://dQqYc6M4ut@rokna.farsonline24.ir:31346?obfs=salamander&obfs-password=UfH7ewjl2hdm4vUJS4VoYx3hVpuLv2aY&insecure=0#%E2%9D%A4%EF%B8%8F%F0%9F%86%94%40m3hdio1%E2%9D%A4%EF%B8%8F
+hy2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428/?insecure=1&sni=bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AD%F0%9F%87%B0
 
 
 
