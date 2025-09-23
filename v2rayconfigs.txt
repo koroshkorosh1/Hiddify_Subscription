@@ -1,4 +1,5 @@
 hysteria2://TELEGRAM-ID-mrknowsit.TELEGRAM-ID-mrknowsit@repuestoslibertad.cl.repuestoslibertad.cl:2084?security=tls&obfs=salamander&obfs-password=ed5s8665dsss&insecure=0#TELEGRAM-ID-free_vpv0088
+hysteria2://%40KevinZakarian:KevinZakarian@kevin.vpny.online:11001/?obfs=salamander&obfs-password=KevinZakarian&insecure=1#%40KevinZakarian
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@d.eans.top:7009?security=tls&insecure=1&sni=d.eans.top#Join%20Telegram%20%F0%9F%86%94%EF%B8%8F%40ibahad%20%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://20050105zhu@204.44.110.129:51541?security=tls&insecure=1&sni=www.bing.com#Join%20Telegram%20%F0%9F%86%94%EF%B8%8F%40ibahad%20%F0%9F%87%BA%F0%9F%87%B2
 hysteria2://bde0cf51-5bce-473a-8c7d-68949e7e5cfd@209.135.168.230:8080?security=tls&insecure=1&sni=us4.youxuan.wiki#Join%20Telegram%20%F0%9F%86%94%EF%B8%8F%40ibahad%20%F0%9F%87%BA%F0%9F%87%B2
