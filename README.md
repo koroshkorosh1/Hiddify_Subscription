@@ -1,7 +1,10 @@
 > [!TIP]
-> <img width="18" height="18" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/> If your Telegram wasn't loading or you didn't have a proxy and were looking for a Telegram proxy, you can use the link below. It will give you a proxy every time you open it.
-> <a href="https://soroushmirzaei.github.io/telegram-proxies-collector/">Telegram Proxies Collector</a> |
-> <a href="https://yebekhe.site/api/tosingbox/">Convert your configurations to Singbox format easily</a>
+> <img height=15px src="https://lh3.googleusercontent.com/8hi-haljUBQ03w_hPm5on8ov2-d1z301nHFSyrx4aKr2wk4ucmNBjIaNBNYMwc_dzO_SAdVR-LT-yd6ecpa0fOQBgw=s60"> Multi Tier Proxier - Web Extension Take control of your internet with Multi Tier Proxier! A smart, secure, and beautifully designed proxy extension that gives you access to the content you need, without slowing down the rest of your browsing. Tired of all-or-nothing VPNs? Multi Tier Proxier introduces a smarter approach. Instead of routing all your traffic through a slow server, you decide which websites go through the secure proxy. Everything else runs at your full internet speed.
+
+<p align="center">
+  <a target="_blank" href="https://chromewebstore.google.com/detail/AI%20Writing%20Companion%20for%20Chrome/jfkpmcnebiamnbbkpmmldomjijiahmbd/">
+    <img src="https://developer.chrome.com/static/docs/webstore/branding/image/206x58-chrome-web-bcb82d15b2486.png" alt="Chrome" height="60" />
+</p>
 
 <div align="left">
     <h1>1. Hiddify</h1>
@@ -71,15 +74,12 @@
 #### <img height=15px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30">  Subscription Links
 
 ```
-https://raw.githubusercontent.com/WearestandTelegram/Hamrah-wearestand/refs/heads/main/wearestand.json
+https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/v2rayconfigs.txt
 ```
 
 ```
 https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt#V2RAY_SUB
 ```
-
-
-
 
 </div>
 
@@ -157,7 +157,7 @@ https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt
 
 
 <div align=center>
-<img width=80% alt="English Demo" src="https://private-user-images.githubusercontent.com/185405785/408825980-9f7225f9-a1e9-41f1-b737-e50d9d79949f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg4MjIzNjEsIm5iZiI6MTczODgyMjA2MSwicGF0aCI6Ii8xODU0MDU3ODUvNDA4ODI1OTgwLTlmNzIyNWY5LWExZTktNDFmMS1iNzM3LWU1MGQ5ZDc5OTQ5Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIwNlQwNjA3NDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMGViZDgxYjE5NDQ2NzhlMzk3OWE0YTgwYTYyMDY5YjQyNjY3YzBlYzkwMTVjYjUyYzQ1YjgxYjlmZjQ1YTczJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tQJkUZMJG2ISNJD_ygh3gOpRRM2zX7fYDHZsZjwxs6I">
+<img width=80% alt="English Demo" src="https://private-user-images.githubusercontent.com/185405785/377583359-f03afd6f-630b-4fa8-af58-42c7fc6feda2.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2Mzk2MzgsIm5iZiI6MTc1ODYzOTMzOCwicGF0aCI6Ii8xODU0MDU3ODUvMzc3NTgzMzU5LWYwM2FmZDZmLTYzMGItNGZhOC1hZjU4LTQyYzdmYzZmZWRhMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyM1QxNDU1MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYTVjMjdkZThjZDlmOGZjNzgzZDFkNzJkYzJiZTMyMDVkNGJjMDM4NGQ1MDQ2MGY5YTI3NDYxMzk3NzVhNGQ4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.J8jvQwzTqqnkSjDCz-vMTa6OzrR2rbGGeiTeZbUAbgE">
 
 </div>
 
@@ -295,7 +295,7 @@ technology
 <br>
 
 <p align="center">
-   <img src="https://private-user-images.githubusercontent.com/128790947/408820297-8f302988-bb6d-4299-829a-552dcc067677.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg0ODU0MDUsIm5iZiI6MTczODQ4NTEwNSwicGF0aCI6Ii8xMjg3OTA5NDcvNDA4ODIwMjk3LThmMzAyOTg4LWJiNmQtNDI5OS04MjlhLTU1MmRjYzA2NzY3Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIwMlQwODMxNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00M2IwNjUxZjYzNThlM2YzNTc3YzlmODkyNjJlNGM4YWI2NDY1ZTIyYmVjM2U0NGQ4MTMwZDFmNjI2YWZlOTcyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.gtpxEKZoIBKbqWtqrw4ZoW7OXdHzNk199GsmiLDOJK8" alt="Logo" >
+   <img src="github.com/bepass-org/oblivion-desktop/raw/main/screenshot/oblivion.png" alt="Logo" >
 <br>
 
 Features
