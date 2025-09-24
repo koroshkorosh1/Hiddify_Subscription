@@ -2,7 +2,7 @@
 > <img height=15px src="https://lh3.googleusercontent.com/8hi-haljUBQ03w_hPm5on8ov2-d1z301nHFSyrx4aKr2wk4ucmNBjIaNBNYMwc_dzO_SAdVR-LT-yd6ecpa0fOQBgw=s60"> Multi Tier Proxier - Web Extension Take control of your internet with Multi Tier Proxier! A smart, secure, and beautifully designed proxy extension that gives you access to the content you need, without slowing down the rest of your browsing. Tired of all-or-nothing VPNs? Multi Tier Proxier introduces a smarter approach. Instead of routing all your traffic through a slow server, you decide which websites go through the secure proxy. Everything else runs at your full internet speed.
 
 <p align="center">
-  <a target="_blank" href="https://chromewebstore.google.com/detail/AI%20Writing%20Companion%20for%20Chrome/jfkpmcnebiamnbbkpmmldomjijiahmbd/">
+  <a target="_blank" href="https://chromewebstore.google.com/detail/multi-tier-proxier/jpomkkcipgkecjlejjkinhmeebjeggkh">
     <img src="https://developer.chrome.com/static/docs/webstore/branding/image/206x58-chrome-web-bcb82d15b2486.png" alt="Chrome" height="60" />
 </p>
 
