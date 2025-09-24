@@ -19,3 +19,6 @@ hy2://a4776214a6be7436f145779c37d64194@dir.lightnright.com:990?obfs=salamander&o
 vless://a4776214-a6be-7436-f145-779c37d64194@dir.lightnright.com:8883?security=tls&sni=jnir-x.pichondan.com&alpn=http/1.1&fp=firefox&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20Homa%20tt
 vless://a4776214-a6be-7436-f145-779c37d64194@dir.lightnright.com:8883?security=tls&sni=jnir-x.pichondan.com&fp=firefox&type=tcp&packetEncoding=xudp&encryption=none#Homa_tt
 vmess://a4776214-a6be-7436-f145-779c37d64194@dir.lightnright.com:5228?encryption=auto&security=none&fp=&type=tcp#%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%20Homa%20t
+vless://TELEGRAM-ID-conf0088@verymad.net.verymad.net:30631?security=reality&sni=google.com&fp=chrome&pbk=zqd_iaUh8XlmeJjqEYLYDHXxZ4t-TVaVd3He6WX53Xc&sid=e44867b0&type=tcp&packetEncoding=xudp&encryption=none#01TELEGRAM-ID-conf0088
+trojan://TELEGRAM-ID-conf0088@verymad.net.verymad.net:59668?security=reality&sni=www.google.com&fp=chrome&pbk=0hSPil6QLhvPL_M27TfJpzlOVd8E9GiNmymkzix6TSc&sid=2a1cee34706f3f85&type=tcp#02TELEGRAM-ID-conf0088
+ss://2022-blake3-aes-256-gcm:5%2FbDiiXOUKz%2BuMkUjlxItgdUPtHwtgi4CAv%2FyVRoxPA%3D%3AIK81IT0nGaDE%2F3BvK0WhIub%2BX5ql09DI1vgxc5CTPN8%3D@verymad.net.verymad.net:23046#03TELEGRAM-ID-conf0088
