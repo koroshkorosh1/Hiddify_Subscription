@@ -1,3 +1,6 @@
+vmess://eyJ2IjoiMiIsInBzIjoiVk1FU1MtV1MxIC0gQGlGcmVlVlBOQm90IiwiYWRkIjoiY3BhbmVsLm5hdmFyMi5pciIsInBvcnQiOiIxMDAiLCJpZCI6IjI2NDAyYmM3LTc4OTUtNGRkMC1hZTZlLTE1MWEwMGM3MTE0NSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidXBsb2FkYm95LmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiVk1FU1MtVENQMSAtIEBpRnJlZVZQTkJvdCIsImFkZCI6ImNwYW5lbC5uYXZhcjEuaXIiLCJwb3J0IjoiMTAwIiwiaWQiOiIyNjQwMmJjNy03ODk1LTRkZDAtYWU2ZS0xNTFhMDBjNzExNDUiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiJ1cGxvYWRib3kuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
+-----------------------------------------------------------------------------------------------------------------------------------------
 hysteria2://CcEXQF74EE@51.77.215.176:11001/?obfs=salamander&obfs-password=GreatBijan&tls=1&insecure=1#BijanVPN
 hysteria2://4TImZd9aiT@89.116.64.211:11001/?obfs=salamander&obfs-password=KevinZakarian&tls=1&insecure=1#MehdiVPN
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@89.185.80.207:443?type=tcp&security=reality&sni=vk.cc&pbk=OckqA_hf9xp6RUADMaRpkBM6b_qlYeoIVZakJVKXXRA&sid=239efe76&fp=chrome&flow=xtls-rprx-vision&mux=true&concurrency=4#USA 2 🇺🇸 Durev VPN
