@@ -1,5 +1,6 @@
 vmess://eyJ2IjoiMiIsInBzIjoiVk1FU1MtV1MxIC0gQGlGcmVlVlBOQm90IiwiYWRkIjoiY3BhbmVsLm5hdmFyMi5pciIsInBvcnQiOiIxMDAiLCJpZCI6IjI2NDAyYmM3LTc4OTUtNGRkMC1hZTZlLTE1MWEwMGM3MTE0NSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidXBsb2FkYm95LmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiVk1FU1MtVENQMSAtIEBpRnJlZVZQTkJvdCIsImFkZCI6ImNwYW5lbC5uYXZhcjEuaXIiLCJwb3J0IjoiMTAwIiwiaWQiOiIyNjQwMmJjNy03ODk1LTRkZDAtYWU2ZS0xNTFhMDBjNzExNDUiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiJ1cGxvYWRib3kuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
+vless://1820765e-c193-4ae1-a96c-f2c476becb4b@95.141.37.73:443?security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&flow=xtls-rprx-vision&encryption=none#avovpn
 -----------------------------------------------------------------------------------------------------------------------------------------
 hysteria2://CcEXQF74EE@51.77.215.176:11001/?obfs=salamander&obfs-password=GreatBijan&tls=1&insecure=1#BijanVPN
 hysteria2://4TImZd9aiT@89.116.64.211:11001/?obfs=salamander&obfs-password=KevinZakarian&tls=1&insecure=1#MehdiVPN
