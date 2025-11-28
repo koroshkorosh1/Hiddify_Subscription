@@ -72,16 +72,8 @@
 </table>
 
 #### <img height=15px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30">  Subscription Links
-```
-https://vpny.online/VPNy.json
-```
-```
-https://raw.githubusercontent.com/koroshkorosh1/Hiddify_Subscription/refs/heads/main/v2rayconfigs.txt
-```
 
-```
-https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt#V2RAY_SUB
-```
+https://throneproj.github.io/
 
 </div>
 
