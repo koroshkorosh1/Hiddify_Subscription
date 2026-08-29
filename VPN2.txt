@@ -1,0 +1,9 @@
+hysteria2://TELEGRAM-ID-conf0088@xinhuamall.com.pk.xinhuamall.com.pk:59001?security=tls&obfs=salamander&obfs-password=60znzvw58zf3v7fr&insecure=0#Hysteria2
+vless://TELEGRAM-ID-conf0088@xinhuamall.com.pk.xinhuamall.com.pk:59002?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#vl-TCP
+vless://TELEGRAM-ID-conf0088@xinhuamall.com.pk.xinhuamall.com.pk:59003?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#vl-WS
+vless://TELEGRAM-ID-conf0088@xinhuamall.com.pk.xinhuamall.com.pk:59004?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0#vl-gRPC
+vless://TELEGRAM-ID-conf0088@xinhuamall.com.pk.xinhuamall.com.pk:59005?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=httpupgrade&allowInsecure=0#vl-HTTPUpgrade
+vless://TELEGRAM-ID-conf0088@xinhuamall.com.pk.xinhuamall.com.pk:59006?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#vl-XHTTP
+vless://6711ce4c-bee8-4ef2-830d-76ed5fe0c2c0@xinhuamall.com.pk.xinhuamall.com.pk:2053?encryption=none&type=tcp&headerType=http&host=zoom.us#conf0088%C2%B9%F0%9F%87%A9%F0%9F%87%AA
+vmess://eyJ2IjoiMiIsInBzIjoiY29uZjAwODjCsvCfh6nwn4eqIiwiYWRkIjoieGluaHVhbWFsbC5jb20ucGsueGluaHVhbWFsbC5jb20ucGsiLCJwb3J0IjoiMjA4MyIsImlkIjoiNjcxMWNlNGMtYmVlOC00ZWYyLTgzMGQtNzZlZDVmZTBjMmMwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJ6b29tLnVzIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+trojan://x11ouzau53bu5gbx@xinhuamall.com.pk.xinhuamall.com.pk:8443?type=tcp&security=none&headerType=http&path=%2F&host=zoom.us#conf0088%C2%B3%F0%9F%87%A9%F0%9F%87%AA
